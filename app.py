@@ -126,6 +126,8 @@ def respond(message, history):
 
 chatbot = gr.ChatInterface(respond)
 
+gr.ChatInterface(respond).launch(theme=gr.themes.Soft())
+
 chatbot.launch()
 
 
