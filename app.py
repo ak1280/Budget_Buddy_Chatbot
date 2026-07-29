@@ -131,13 +131,7 @@ custom_theme = gr.themes.Soft(
     radius_size="lg"
 )
 
-# Add custom CSS to control image size
-custom_css = """
-.small-image {
-    max-width: 250px !important;
-    margin: 0 auto;
-}
-"""
+
 
 with gr.Blocks(theme=custom_theme, css=custom_css) as chatbot:
     gr.Image(
