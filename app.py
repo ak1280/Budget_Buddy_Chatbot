@@ -131,10 +131,24 @@ custom_theme = gr.themes.Soft(
     radius_size="lg"
 )
 
+# Add custom CSS to control image size
+custom_css = """
+.small-image {
+    max-width: 250px !important;
+    margin: 0 auto;
+}
+"""
 
+with gr.Blocks(theme=custom_theme, css=custom_css) as chatbot:
+    gr.Image(
+        display_image(), 
+        container=False, 
+        elem_classes="small-image", 
+        show_label=False
+    )
 
 with gr.Blocks(theme=custom_theme) as chatbot:
-    gr.Image(display_image())
+    #gr.Image(display_image())
     gr.ChatInterface(
         respond,
         title="Introducing the Budget Buddy!💵",
