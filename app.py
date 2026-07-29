@@ -126,6 +126,12 @@ def respond(message, history):
 
 chatbot = gr.ChatInterface(respond)
 
+custom_theme = gr.themes.Soft(
+    primary = "#ADE0AE",
+    secondary = "#042107",
+    radius_size = "lg"
+)
+
 chatbot.launch()
 
 
