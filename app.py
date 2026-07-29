@@ -131,6 +131,17 @@ custom_theme = gr.themes.Soft(
     radius_size="lg"
 )
 
+with gr.Blocks (theme = theme) as chatbot:
+    ##gr.Image(display_image())
+    gr.ChatInterface(respond, type = "messages",
+    title = "Introducing the Budget Buddy!💵",
+    textbox= gr.Textbox(placeholder="Ask Me Anything!"),
+    description = "This tool simplifies financial literacy and helps young adults make informed financial decisions. 💸",
+    examples = ["Investing", 
+                "Budgeting",
+                "Credit",]
+                          )
+
 chatbot.launch(theme = custom_theme)
 
 
