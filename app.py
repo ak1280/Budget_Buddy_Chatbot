@@ -144,16 +144,18 @@ with gr.Blocks(theme=custom_theme) as chatbot:
         examples=["Investing", "Budgeting", "Credit"]
     )
     with gr.Tab("Resources"): 
-        gr.Markdown("Extra_Info")
+        with gr.Tab("Resources"): 
         gr.HTML("""
-        ## 📚 Useful Financial Literacy Resources
-
-        Check out these helpful links to learn more:
-
-        * [Investopedia - Financial Literacy Guide](https://www.investopedia.com/financial-literacy-4689720)
-        * [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/)
-        * [Khan Academy - Finance & Capital Markets](https://www.khanacademy.org/college-careers-more/personal-finance)
-        * [MyMoney.gov](https://www.mymoney.gov/)
+        <div style="padding: 10px; font-family: sans-serif;">
+            <h2 style="color: #1b5e20;">📚 Useful Financial Literacy Resources</h2>
+            <p>Check out these helpful links to learn more:</p>
+            <ul style="line-height: 1.8;">
+                <li><a href="https://www.investopedia.com/terms/f/financial-literacy.asp" target="_blank" style="color: #0d47a1; font-weight: bold;">Investopedia - Financial Literacy Guide</a></li>
+                <li><a href="https://www.schwab.com/learn/story/what-is-financial-literacy" target="_blank" style="color: #0d47a1; font-weight: bold;">Consumer Financial Protection Bureau (CFPB)</a></li>
+                <li><a href="https://blogs.uofi.uillinois.edu/view/7550/176801781" target="_blank" style="color: #0d47a1; font-weight: bold;">Khan Academy - Finance & Capital Markets</a></li>
+                <li><a href="https://www.cnbc.com/personal-finance/" target="_blank" style="color: #0d47a1; font-weight: bold;">MyMoney.gov</a></li>
+            </ul>
+        </div>
         """)
 
 
