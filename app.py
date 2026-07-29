@@ -100,7 +100,7 @@ def get_top_chunks(query, chunk_embeddings, text_chunks):
   # Return the list of most relevant chunks
   return top_chunks
 
-client = InferenceClient("Qwen/Qwen2.5-7B-Instruct")
+client = InferenceClient("Qwen/Qwen2.5-7B-Instruct", bill_to="kode-with-klossy")
 
 #respond function
 def respond(message, history):
