@@ -134,7 +134,7 @@ custom_theme = gr.themes.Soft(
 
 
 with gr.Blocks(theme=custom_theme) as chatbot:
-     gr.Image(display_image())
+    gr.Image(display_image())
     gr.ChatInterface(
         respond,
         title="Introducing the Budget Buddy!💵",
