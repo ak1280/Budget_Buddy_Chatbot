@@ -41,7 +41,6 @@ def preprocess_text(text):
   # Print the length of cleaned_chunks
   print(len(cleaned_chunks))
  
-
   # Return the cleaned_chunks
   return cleaned_chunks
 
@@ -55,7 +54,7 @@ model = SentenceTransformer('all-MiniLM-L6-v2')
 def create_embeddings(text_chunks):
   # Convert each text chunk into a vector embedding and store as a tensor
   chunk_embeddings = model.encode(text_chunks, convert_to_tensor=True) # Replace ... with the text_chunks list
-
+    
   # Print the chunk embeddings
   print (chunk_embeddings)
 
@@ -132,18 +131,19 @@ custom_theme = gr.themes.Soft(
     radius_size="lg"
 )
 
-with gr.Blocks (theme = custom_theme) as chatbot:
-    ##gr.Image(display_image())
-    chatbot = gr.ChatInterface(respond, type = "messages",
+with gr.Blocks (theme = custom_theme) as demo:
+    gr.ChatInterface(respond, 
+    type = "messages",
     title = "Introducing the Budget Buddy!💵",
     textbox= gr.Textbox(placeholder="Ask Me Anything!"),
     description = "This tool simplifies financial literacy and helps young adults make informed financial decisions. 💸",
     examples = ["Investing", 
                 "Budgeting",
-                "Credit",]
-                          )
+                "Credit",
+               ]
+    )
 
-chatbot.launch(theme = custom_theme)
+chatbot.launch()
 
 
 # TODO: This is just a starting point! Customize the system prompt,
