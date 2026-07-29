@@ -132,15 +132,6 @@ custom_theme = gr.themes.Soft(
 )
 
 
-
-with gr.Blocks(theme=custom_theme, css=custom_css) as chatbot:
-    gr.Image(
-        display_image(), 
-        container=False, 
-        elem_classes="small-image", 
-        show_label=False
-    )
-
 with gr.Blocks(theme=custom_theme) as chatbot:
     gr.Image(display_image())
     gr.ChatInterface(
