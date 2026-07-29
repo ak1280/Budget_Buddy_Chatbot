@@ -135,7 +135,7 @@ custom_theme = gr.themes.Soft(
     button_primary_text_color="#ffffff" 
 )
 
-    chatbot.launch(theme = custom_theme)
+chatbot.launch(theme = custom_theme)
 
 
 # TODO: This is just a starting point! Customize the system prompt,
