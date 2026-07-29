@@ -126,16 +126,16 @@ def display_image():
     return "budgetbuddy.png"
     
 custom_theme = (
-    gr.themes.Soft()
+    gr.themes.Soft(primary_hue = "green", radius_size = "lg")
     .set(
-        body_background_fill="#ADE0AE",
-        body_background_fill_dark="#ADE0AE",
+        body_background_fill="#124a34",
+        body_background_fill_dark="#124a34",
 
         background_fill_primary="#ADE0AE",
         background_fill_primary_dark="#ADE0AE",
 
-        background_fill_secondary="#CBDEF2",
-        background_fill_secondary_dark="#CBDEF2",
+        #background_fill_secondary="#CBDEF2",
+        #background_fill_secondary_dark="#CBDEF2",
     )
 )
 
@@ -153,7 +153,7 @@ with gr.Blocks(theme=custom_theme) as chatbot:
         with gr.Tab("Resources"): 
             gr.HTML("""
             <div style="padding: 10px; font-family: sans-serif;">
-                <h2 style="color: #1b5e20;">📚 Useful Financial Literacy Resources</h2>
+                <h2 style="color: "white";">📚 Useful Financial Literacy Resources</h2>
                 <p>Check out these helpful links to learn more:</p>
                 <ul style="line-height: 1.8;">
                     <li><a href="https://www.investopedia.com/terms/f/financial-literacy.asp" target="_blank" style="color: #0d47a1; font-weight: bold;">Investopedia - Financial Literacy Guide</a></li>
