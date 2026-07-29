@@ -131,7 +131,7 @@ custom_theme = gr.themes.Soft(
     radius_size="lg"
 )
 
-with gr.Blocks (theme = custom_theme) as demo:
+with gr.Blocks (theme = custom_theme) as chatbot:
     gr.ChatInterface(respond,
     title = "Introducing the Budget Buddy!💵",
     textbox= gr.Textbox(placeholder="Ask Me Anything!"),
