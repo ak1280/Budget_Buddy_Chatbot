@@ -145,6 +145,10 @@ with gr.Blocks(theme=custom_theme) as chatbot:
     with gr.Tab("Resources"): 
         gr.Markdown("Extra_Info")
 
+    with gr.Tab("Budget Tracker"):
+        gr.Markdown ("""
+    https://docs.google.com/spreadsheets/d/1Ok2AgQ_YlXGnw-9XP0SvMvMqTCiNcQhvMNuv5KdcsuA/edit?usp=sharing         
+               """)
 chatbot.launch()
 
 
