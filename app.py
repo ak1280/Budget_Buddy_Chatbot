@@ -132,8 +132,7 @@ custom_theme = gr.themes.Soft(
 )
 
 with gr.Blocks (theme = custom_theme) as demo:
-    gr.ChatInterface(respond, 
-    type = "messages",
+    gr.ChatInterface(respond,
     title = "Introducing the Budget Buddy!💵",
     textbox= gr.Textbox(placeholder="Ask Me Anything!"),
     description = "This tool simplifies financial literacy and helps young adults make informed financial decisions. 💸",
