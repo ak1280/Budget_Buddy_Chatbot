@@ -127,11 +127,15 @@ def respond(message, history):
 chatbot = gr.ChatInterface(respond)
 
 custom_theme = gr.themes.Soft(
-    primary = "green",
-    radius_size = "lg"
+    primary_hue = "green",
+    radius_size="lg"
+).set(
+    button_primary_background_fill="#a855f7", 
+    button_primary_background_fill_hover="#9333ea", 
+    button_primary_text_color="#ffffff" 
 )
 
-chatbot.launch()
+    chatbot.launch(theme = custom_theme)
 
 
 # TODO: This is just a starting point! Customize the system prompt,
