@@ -145,6 +145,17 @@ with gr.Blocks(theme=custom_theme) as chatbot:
     )
     with gr.Tab("Resources"): 
         gr.Markdown("Extra_Info")
+        gr.HTML("""
+        ## 📚 Useful Financial Literacy Resources
+
+        Check out these helpful links to learn more:
+
+        * [Investopedia - Financial Literacy Guide](https://www.investopedia.com/financial-literacy-4689720)
+        * [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/)
+        * [Khan Academy - Finance & Capital Markets](https://www.khanacademy.org/college-careers-more/personal-finance)
+        * [MyMoney.gov](https://www.mymoney.gov/)
+        """)
+
 
     with gr.Tab("Budget Tracker"):
         gr.HTML("""
