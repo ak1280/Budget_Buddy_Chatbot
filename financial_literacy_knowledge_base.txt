@@ -1,0 +1,1589 @@
+What are the basics of budgeting?
+Budgeting is the process of creating a plan to track and manage your income and expenses over a given period.
+The core foundation involves identifying all net income sources and recording every fixed and variable spending category.
+Subtracting your total expenses from your total monthly income reveals whether you have a surplus to save or a deficit to correct.
+Key steps include tracking spending habits, distinguishing between essential needs and discretionary wants, setting financial goals, and reviewing your plan regularly.
+Establishing a clear budget helps you pay bills on time, avoid high-interest debt, and systematically build emergency savings.
+
+Can you explain more about the 50/30/20 budgeting rule and how it works?
+The 50/30/20 rule is a percentage-based framework that divides your take-home pay into three simple spending categories.
+50% of your income is allocated to Needs, covering essential non-negotiable expenses like rent, utilities, basic groceries, insurance, and minimum debt payments.
+30% of your income is allocated to Wants, which includes discretionary lifestyle spending such as dining out, subscriptions, hobbies, and travel.
+20% of your income is allocated to Goals and Savings, designated for emergency reserves, retirement contributions, and extra debt payoff.
+This budgeting method provides structured guardrails while allowing flexibility for lifestyle spending without complex tracking.
+
+
+How do I budget when I have a lot of small expenses?
+Small, frequent expenses can be managed by grouping them into broad spending categories rather than tracking every single receipt individually.
+Creating a single weekly "incidentals" or "miscellaneous" cash allowance sets a hard spending cap for minor daily purchases.
+Using automated expense-tracking apps or checking bank statements weekly helps capture small recurring charges like coffee, snacks, or digital subscriptions.
+A daily spending log or receipt folder can highlight minor impulse purchases that quietly add up to large monthly amounts.
+Setting up separate debit or cash envelopes specifically for small daily wants keeps minor purchases from eating into essential bill money.
+
+How much of my paycheck should I save?
+A standard benchmark in personal finance is saving 20% of your take-home pay.
+This 20% target comes from the 50/30/20 budgeting rule, which allocates 50% of income to needs, 30% to wants, and 20% to savings.
+Your savings goal should cover emergency funds, retirement contributions, and short-term financial goals.
+If saving 20% feels unrealistic, start with a smaller amount like 5% or 10% and gradually increase it over time.
+Consistently saving any portion of your income builds financial discipline and long-term security.
+
+How do I start saving if I don’t make much money?
+Start small by setting aside small amounts, such as $5 or $10 per paycheck.
+Automate your savings by setting up direct deposit or recurring transfers so money moves before you can spend it.
+Build a micro-emergency fund first, aiming for an initial target of $500.
+Track your spending closely to find small discretionary costs that can be redirected into savings.
+Save windfall money, such as tax refunds, bonuses, or cash gifts, to boost your balance quickly.
+
+How can I stop overspending?
+Identify your specific spending triggers, such as impulse shopping, stress, or peer pressure.
+Implement a 24-hour waiting period before making non-essential purchases to curb impulsive decisions.
+Use a cash envelope system or a dedicated debit account for discretionary spending categories.
+Remove saved credit card details from online shopping browsers and retail mobile applications.
+Align your spending with clear personal goals so you evaluate purchases against your future priorities.
+
+What are some realistic ways to track expenses without feeling overwhelmed?
+Choose a simple tracking method that fits your daily routine, such as a mobile app, spreadsheet, or notepad.
+Focus on tracking broad spending categories rather than logging every tiny individual item.
+Set aside five minutes each week to review bank statements instead of trying to log daily transactions.
+Use automated budgeting tools that link to your financial accounts and categorize purchases automatically.
+Start by tracking just one discretionary category, like dining out, before attempting to track all spending.
+
+
+What’s the difference between a checking account and savings account?
+A checking account is designed for everyday transactions, spending, paying bills, and making debit purchases.
+A savings account is designed for storing money safely and earning interest over time.
+Checking accounts offer high liquidity with debit card access and paper checks, but typically pay little to no interest.
+Savings accounts offer higher interest rates (APYs) to help your money grow, but lack direct debit card spending tools.
+Checking accounts act as your daily wallet, while savings accounts serve as a secure shelf for emergency cash and long-term goals.
+
+What is an ETF?
+An Exchange-Traded Fund (ETF) is a pooled investment vehicle that holds a collection of assets like stocks or bonds.
+ETFs pool money from many investors to buy a diversified portfolio of underlying securities.
+Shares of an ETF trade on public stock exchanges at market prices throughout the trading day.
+Most ETFs are designed to passively track specific market indexes, such as the S&P 500.
+ETFs offer individual investors instant diversification, low cost structures, and high liquidity.
+
+What's the difference between an ETF and a mutual fund?
+ETFs trade like stocks on an exchange throughout the trading day at real-time market prices.
+Mutual funds are priced and traded only once per day after the market closes at their Net Asset Value (NAV).
+ETFs generally have no required minimum investment beyond the price of a single share.
+Mutual funds often require flat dollar minimum initial investments, such as $1,000 or $3,000.
+ETFs are often more tax-efficient due to their unique in-kind share creation and redemption mechanism.
+
+
+“What are the best companies to invest in as a beginner to investing?”
+Here's a look at five stocks of large, well-established companies that may be suited to new investors who want to buy a few shares. Newbies don't need much money to get started; buying even a fractional share can put anyone on the path to building wealth and learning about the market:
+Apple Inc. (APPL)                    3 yr return ~ 17.1%
+Microsoft Corp. (MSFT)           3 yr return ~ 5.5%
+Charles Schwab Corp. (SCHW)        3 yr return ~ 20.9%
+Costco Wholesale Corp. (COST)      3 yr return ~ 22.1%
+Visa Inc. (V)                             3 yr return ~ 15.8%
+
+“What are stocks, bonds, ETFs, and mutual funds?”
+Stocks are a type of security that allow an investor to own a share, or a piece, of a company. When a company wants to raise money, it will sell shares of its stock. If the company performs well, it may pay its shareholders part of its earnings, called a dividend. Stocks have a great potential for growth over time. However, they can also carry a great deal of risk, as the stock market can fluctuate greatly. If you purchase a share of stock and the price goes down, when you sell it, you will lose money.
+Bonds: Acting like a bank by lending your money to a government or corporation. They promise to pay you back a set amount later plus regular interest over time
+Mutual Funds: A pool of money collected from many people to buy a large mix of stocks or bonds chosen by a professional manager. They are only bought or sold once a day after the market closes
+ETFs (Exchange-Traded Funds): Similar to a mutual fund because it holds a big basket of diverse investments, but it trades on a stock market like a regular stock all day long while the market is
+
+“What is cryptocurrency?”
+a digital currency, meaning it runs on a virtual network and doesn't exist in physical form like paper money or coins. It operates on a shared digital ledger (blockchain) maintained by a global network of computers, eliminating middlemen like banks
+
+“What are the different risk levels for the types of investments?”
+Low-Risk Investments (Conservative)
+Cash and savings: Money market accounts and high-yield savings accounts keep your money safe with almost no chance of loss, but they pay very low returns.
+Government bonds: Short-term Treasury bills and government notes are backed by the government, making them very safe.
+Certificates of deposit (CDs): Banks lock your money for a set time at a fixed rate, offering safety in exchange for low growth. (link)
+Medium-Risk Investments (Balanced)
+Corporate bonds: Loans you give to companies. Stable companies with good credit ratings are safer, but weaker companies might not pay you back.
+Blue-chip stocks: Shares in large, well-known companies that have a long history of steady business.
+Balanced or multi-asset funds: Mutual funds that mix both stocks and bonds to balance safety and growth. [1, 2, 3, 4]
+High-Risk Investments (Aggressive)
+Individual growth stocks: Shares in smaller or new companies that can grow fast or lose value quickly.
+Cryptocurrency and commodities: Digital coins or raw materials whose prices jump and drop rapidly in short periods.
+Emerging market funds: Investments in developing countries, which face higher political and currency changes. [1, 2, 3]
+
+
+
+“What are the basics to investing?”
+Investing is putting your money into assets like stocks, bonds, or funds with the goal of growing your wealth over time. The main core concepts for beginners are stocks and bonds, diversification, and compound growth. Investing involves putting your money to work through the buying and holding of investment products with the expectation of growing your money. It could boost your returns or provide the required amount of income to help achieve your financial goals. In many cases, the growth and income that can come from investing is a key ingredient to making financial goals achievable.
+
+"What is a 401(k)?"
+Named for the tax code section that created it, a 401(k) is an employer-sponsored retirement savings plan with special tax benefits. (The exact tax advantages depend on which kind of 401(k) contributions you make—more on that later.) Employers typically offer 401(k)s as part of a benefits package to attract and retain workers.
+Not everyone has access to a 401(k). Depending on your industry, you may be able to contribute to a similar employer-sponsored retirement plan, like a 403(b) or 457(b), instead of a 401(k). Self-employed people can open a type of 401(k) on their own called a self-employed 401(k), and anyone who earns an income (or who is married to someone who does) can save for retirement—in addition to a 401(k) or in place of one—within an IRA. [What is a 401(k)? | Fidelity ]
+
+"What is a Roth IRA?"
+A Roth IRA is a special individual retirement account that lets your money grow tax-free, allowing you to make tax-free withdrawals later in life. You fund the account with money you have already paid taxes on, meaning you do not get a tax break today, but your future earnings come out completely tax-free
+
+"What's the difference between a traditional IRA and a Roth IRA?" 
+
+
+"Should I invest in individual stocks or index funds?" 
+Index funds spread your money across hundreds of companies for low-maintenance, market-average returns; individual stocks concentrate risk in single companies for a chance at higher returns but require active monitoring and carry greater volatility.Deciding to invest in index funds or individual stocks depends on factors like your financial goals, risk tolerance, and time availability. 
+
+Index funds are typically better for hands-off, diversified investing. They may appeal to people who prefer a more straightforward, lower-maintenance approach that can offer steady, long-term growth potential mirroring the underlying index. 
+
+If your goal is to beat the market, and you’re comfortable with a higher level of risk, you may look to buy individual stocks. This path typically requires a higher time commitment, but selecting the right investment, although risky, can lead to significant portfolio gains.
+
+Index funds are a popular choice for long-term, low-maintenance portfolios. 
+Pros:
+Diversification
+Low costs
+Can offer simplicity in comparison to selecting individual stocks
+Consistent returns with the underlying index
+Tax efficiency opportunities 
+Cons:
+
+Lack of control over selecting stocks
+Market risk during broad market downturns
+
+There’s the potential for more upside when investing in individual stocks, but it can also require greater effort and carry higher risks.
+
+Pros:
+Potential for higher returns
+Greater control 
+Portfolio fine-tuned flexibility
+- Cons:
+Generally, higher risk
+Can requires a greater time commitment
+Lack of instant diversification
+Potential for higher emotional stress
+
+
+"I want to retire early. How should I start planning now?" 
+Estimate how much you may need to save to retire early. For a quick estimate, Fidelity suggests multiplying annual expenses by 33, assuming an annual withdrawal rate of 3%. A withdrawal rate of 3% is very conservative, which could help ensure that your money lasts throughout your retirement.
+Decide how much money you can save each year. The amount of money saved annually is your savings rate.
+Save consistently using tax-advantaged accounts like health savings accounts, 401(k)s, and IRAs, and taxable accounts, like brokerage accounts too.
+Invest for growth potential with a diversified mix of investments.
+Consider what you’ll do for health care before you're eligible for Medicare and think about a strategy for claiming Social Security.
+
+“Should I invest in gold? What are the benefits”
+Gold can be a good tool for protecting your money, serving primarily as a hedge against inflation, a safe-haven asset during crises, and a way to diversify a portfolio, though it does not produce regular income like stocks or bonds.
+Benefits:
+Protection in crises: Gold often holds or increases its value when the stock market drops or political tensions rise.
+Inflation defense: It helps protect your purchasing power when the cost of living goes up.
+Diversification: Most experts suggest keeping gold to a small part of your holdings—around 5% to 15% of your total portfolio
+Main Drawbacks
+No cash flow: Gold does not pay dividends or interest.
+Short-term swings: Prices can go up and down quickly depending on global interest rates and market behavior
+
+“What is compound interest and how can I utilize it?”
+Starting young lets the students take advantage of the magic of "compound interest." Compound interest is the interest you earn on interest. This can be illustrated by using basic math: if you have $100 and it earns 5% interest each year, you'll have $105 at the end of the first year. At the end of the second year, you'll have $110.25. Not only did you earn $5 on the initial $100 deposit, you also earned $0.25 on the $5 in interest. While 25 cents may not sound like much at first, it adds up over time. Even if you never add another dime to that account, in 10 years you'll have more than $162 thanks to the power of compound interest, and in 25 years you'll have almost $340 [What is compound interest? | Investor.gov ]
+
+
+What’s the difference between a debit card and credit card?
+A credit card provides a revolving line of credit to borrow funds up to a set limit, while a debit
+card deducts money directly from your bank account.
+Debit cards help control spending and stick to a budget since you can only spend available
+funds.
+Credit cards help build credit history and offer rewards, but carry the risk of high interest rates
+and debt accumulation.
+Credit cards generally offer better protection against online fraud compared to debit cards.
+Choosing between debit and credit depends on your spending habits, financial discipline, and
+goals.
+Debit Card Versus Credit Card: What's The Big Difference?
+Credit cards and debit cards may look identical, but they function completely differently.
+A credit card grants the holder a revolving credit line (unsecured credit) to make purchases or
+cash advances up to a predetermined limit.
+The borrowed amount can be paid in full at the end of the billing cycle or paid in part as
+extended credit.
+If not paid in full, interest is charged on the remaining balance based on the card's Annual
+Percentage Rate (APR).
+Before getting a credit card, you should understand key terms including the APR, grace period,
+annual fees, finance charge calculations, and transaction fees (like balance transfer or late
+fees).
+A debit card (also known as a check card or ATM card) directly accesses funds in your checking
+or savings account.
+When using a debit card, money is deducted immediately from your available bank balance.
+Debit cards typically have fewer fees, provided you avoid out-of-network ATM charges.
+Choosing A Payment Method: Debit Card vs. Credit Card
+Depending on Nature of Spending:
+If you are a compulsive buyer, debit cards are the better payment method because you can only
+spend money you actually have.
+Credit cards tend to encourage overspending because you are spending borrowed money.
+Online Purchases and Fraud:
+Credit cards are usually safer for online purchases because fraudulent charges involve
+borrowed money from the issuer rather than your personal funds.
+Debit cards carry higher risk for online fraud because stolen card information gives scammers
+direct access to drain your bank account.
+Simplicity:
+Debit cards are simple to understand because every purchase directly reduces your bank
+balance.
+Credit cards involve more complex terms, interest calculations, fees, and fine print.
+
+Convenience:
+Both debit and credit cards offer equal convenience at checkout, requiring either a signature or
+a security PIN.
+Improving Credit History:
+Credit card activity is reported to credit bureaus, allowing responsible usage to build your credit
+score over time.
+Debit card usage is not reported to credit bureaus and has zero impact on your credit history or
+score.
+Security:
+In physical settings, debit cards are secure because transactions require a 4- or 5-digit PIN.
+Credit cards rely primarily on signatures in person, which can be easier to forge.
+The Bottom Line
+Both debit cards and credit cards are valuable financial tools.
+Debit cards promote budget control and simplicity without the risk of accumulating debt.
+Credit cards offer consumer rewards and credit-building opportunities, provided you pay off the
+balance in full each month.
+
+What is a credit score and why does it matter?
+A credit score is a three-digit number representing your credit risk.
+Standard credit scores range from 300 to 850.
+Higher scores indicate lower risk and make it easier to qualify for loans with better interest rates.
+Credit scores are calculated using information found in your credit reports.
+Payment history and credit utilization are the two most important factors in determining your
+score.
+You have multiple credit scores across different scoring models and credit bureaus.
+What Is a Credit Score?
+A credit score is a numerical summary calculated from the information on your credit reports.
+Lenders, creditors, landlords, and financial institutions use credit scores to evaluate applications
+for credit cards, auto loans, mortgages, or personal loans.
+Higher credit scores suggest to lenders that you are a low-risk borrower.
+A high credit score makes you more likely to get approved for credit and qualify for favorable
+interest rates and terms.
+Credit Score Ranges
+Standard credit scoring models range from 300 to 850.
+Credit scores generally break down into five categories:
+Poor (300–579): Indicates significant credit risk, often due to missed payments or defaults.
+Fair (580–669): Below the national average, where borrowers may face higher interest rates.
+Good (670–739): Near or slightly above average, suggesting responsible credit management.
+Very Good (740–799): Above average, demonstrating strong financial responsibility and
+unlocking lower rates.
+Excellent (800–850): Top-tier credit performance, qualifying borrowers for the best rates and
+perks.
+How Credit Scores Are Calculated
+Most credit scoring models evaluate five primary factors from your credit report:
+Payment History: The most critical factor, showing whether you pay open accounts on time.
+Credit Utilization Rate: The ratio of your used revolving credit compared to your total credit limit.
+Length of Credit History: Evaluates the age of your oldest account, newest account, and
+average account age.
+Types of Credit Accounts: Keeping a mix of revolving accounts and installment loans shows
+debt versatility.
+New Credit and Inquiries: Applying for new credit triggers a hard inquiry, which can temporarily
+lower your score.
+Soft inquiries, such as checking your own credit score, do not affect your credit.
+Why You Have Multiple Credit Scores
+It is common to have more than one credit score.
+Different scoring models, such as FICO and VantageScore, use different algorithms to evaluate
+
+risk.
+Lenders may use specialized scores tailored to specific industries like auto loans or mortgages.
+The three nationwide credit reporting agencies—Equifax, Experian, and TransUnion—may hold
+slightly different data on your credit history.
+The Bottom Line
+Your credit score is a dynamic snapshot of your financial behavior.
+Maintaining on-time payments is the most effective way to protect your score.
+Keeping credit card balances low helps improve your credit utilization ratio.
+Applying for new credit only when necessary helps build and protect a strong credit score over
+time.
+
+How long does it take to build good credit?
+Building a good credit score generally takes about six months to a year of consistent, responsible credit activity.
+It takes at least six months of account activity for scoring models like FICO to generate your first credit score.
+Key actions to speed up the process include making every payment on time and keeping your credit utilization ratio low.
+Starting with a secured credit card or becoming an authorized user on an established account can help establish history faster.
+
+What is a credit limit?
+A credit limit is the maximum amount of money a lender allows you to borrow on a credit card or revolving credit line.
+Lenders determine your limit based on your credit score, income, debt-to-income ratio, and past payment history.
+Your credit limit includes both your purchases and any fees or interest charges assessed to the account.
+Keeping your total balance well below your credit limit improves your credit utilization ratio and boosts your credit score.
+
+
+What happens if I go over my credit limit?
+If you attempt to spend past your credit limit, your transaction is typically declined at the point of purchase.
+If you opted into over-limit coverage, the card issuer may allow the charge but assess an over-limit fee.
+Exceeding your limit causes your credit utilization ratio to spike above 100%, which can significantly lower your credit score.
+Card issuers may also respond by lowering your overall credit limit, raising your interest rate, or suspending your borrowing privileges.
+
+What is a credit card balance?
+A credit card balance is the total amount of money you currently owe to your credit card company.
+Your balance includes all recent purchases, cash advances, balance transfers, accrued interest, and account fees.
+Your statement balance represents what you owed at the end of your billing cycle, while your current balance includes transactions posted since then.
+Paying off your full statement balance each month avoids interest charges on new purchases.
+
+What is a minimum payment?
+A minimum payment is the lowest dollar amount you are legally required to pay on your credit card statement by the due date to keep the account in good standing.
+It is usually calculated as a small percentage of your total balance (typically 1% to 3%) or a flat fee like $25 or $35, whichever is higher.
+Paying at least the minimum amount prevents your payment from being reported as late to credit bureaus.
+Paying the minimum avoids late payment fees, but it does not stop interest from accruing on your remaining balance.
+
+Why shouldn't I only pay the minimum payment?
+Paying only the minimum allows compound interest to accumulate daily on your remaining unpaid balance.
+Relying on minimum payments dramatically increases the total cost of your purchases due to high credit card interest rates (APRs).
+It can turn small balances into multi-year or multi-decade debt obligations.
+Carrying a large balance keeps your credit utilization high, which can harm your overall credit score.
+Paying the full statement balance each month is the best strategy to eliminate interest charges completely.
+
+What are some key terms I need to know to increase my financial literacy:
+KEY TAKEAWAYS
+Financial literacy is the ability to understand and make use of a variety of financial skills.
+Those with higher levels of financial literacy are more likely to spend less income, create an
+emergency fund, and open a retirement account than those with lower levels.
+Some of the basics of financial literacy and its practical application in everyday life include
+banking, budgeting, handling debt and credit, and investing.
+We know that the earlier you learn the basics of how money works, the more likely you will be
+confident and successful with your finances later in life.
+It’s never too late to start learning, but it pays to start the earliest you can.
+The first steps into the world of money start with awareness about the need to be educated and
+immersed into good money habits, and then with education on how to do so.
+Banking, budgeting, saving, credit, debt, and investing are the pillars that support most of the
+financial decisions that we’ll make in our lives.
+At Investopedia, we have more than 36,000 articles, terms, Frequently Asked Questions
+(FAQs), and videos that explore these topics.
+We’ve spent 25 years building and improving our resources to help you make smart financial
+and investing decisions.
+This guide is a great place to start, and today is a great day to do it.
+Let’s begin with financial literacy—what it is and how it can improve your life.
+What Is Financial Literacy?
+Financial literacy is the ability to understand and make use of a variety of financial skills,
+including personal financial management, budgeting, and investing.
+It also means comprehending certain financial principles and concepts, such as the time value
+of money, compound interest, managing debt, and financial planning.
+Achieving financial literacy can help individuals to avoid making poor financial decisions.
+It can help them become self-sufficient and achieve financial stability.
+Key steps to attaining financial literacy include learning how to create a budget, track spending,
+pay off debt, and plan for retirement.
+Educating yourself on these topics also involves learning how money works, setting and
+achieving financial goals, becoming aware of unethical/discriminatory financial practices, and
+managing financial challenges that life throws your way.
+The Importance of Financial Literacy
+In its National Financial Capability Study, the Financial Industry Regulatory Authority (FINRA)
+found that Americans with higher levels of financial literacy were more likely to make ends meet,
+spend less of their income, create a three-month emergency fund, and open a retirement
+account than those with lower financial literacy.
+Making informed financial decisions is more important than ever.
+Take retirement planning.
+Many workers once relied on pension plans to fund their retirement lives, with the financial burden and decision-making for pension funds borne by the companies or governments that
+sponsored them.
+Today, few workers get pensions; instead, some are offered the option of participating in a
+401(k) plan.
+This involves decisions that employees themselves have to make about contribution levels and
+investment choices.
+Even contributing to a 401(k) may not be enough to afford a comfortable retirement.
+Those without employer options need to actively seek out and open individual retirement
+accounts (IRAs) and other tax-advantaged retirement accounts.
+Add to this people’s increasing life spans (leading to longer retirements), Social Security
+benefits that barely support basic survival, complicated health or other insurance options, more
+complex savings and investment instruments to select from, and a plethora of choices from
+banks, credit unions, brokerage firms, credit card companies, and more.
+It’s clear that financial literacy is a must for making thoughtful and informed decisions, avoiding
+unnecessary levels of debt, helping family members through these complex decisions, and
+having adequate income in retirement.
+Personal Finance Basics
+Personal finance is where financial literacy translates into individual financial decision-making.
+How do you manage your money?
+Which savings and investment vehicles are you using?
+Personal finance is about making and meeting your financial goals, whether you want to own a
+home, help other members of your family, save for your children’s college education, support
+causes that you care about, plan for retirement, or anything else.
+Among other topics, it encompasses banking, budgeting, handling debt and credit, and
+investing.
+Let’s take a look at these basics to get you started.
+TIP
+If you’re just getting started, these five steps can help you start strong and build your financial
+foundation:
+Open a checking account to manage day-to-day spending and bill payments.
+Set up direct deposit so your income flows automatically and reliably.
+Start an emergency fund with a first goal of $500–$1,000, then build toward three to six months
+of expenses.
+Check your free credit reports each year to spot errors and understand your credit history.
+Contribute to your 401(k) up to the employer match, if available, so you don’t leave free money
+on the table.
+Introduction to Bank Accounts
+A bank account is typically the first financial account that you’ll open.
+Bank accounts can hold and build the money you'll need for major purchases and life events.
+
+Here’s some background on bank accounts and why they are step one in creating a stable
+financial future.
+Why Do I Need a Bank Account?
+Though the majority of Americans do have bank accounts, 6% of households in the United
+States still don’t have one.
+Why is it so important to open a bank account?
+Because it’s safer than holding cash.
+Assets held in a bank are harder to steal, and in the U.S., they’re generally insured by the
+Federal Deposit Insurance Corporation (FDIC).
+That means you should always have access to your cash, even if every customer decides to
+withdraw their money at the same time.
+Many financial transactions require you to have a bank account to:
+Use a debit or credit card
+Use payment apps like Venmo or PayPal
+Write a check
+Use an ATM
+Buy or rent a home
+Receive your paycheck from your employer
+Earn interest on your money
+Online vs. Brick-and-Mortar Banks
+When you think of a bank, you probably picture a building.
+This is called a brick-and-mortar bank.
+Many brick-and-mortar banks also allow you to open accounts and manage your money online.
+Some banks are only online and have no physical buildings.
+These banks typically offer the same services as brick-and-mortar banks, aside from the ability
+to visit them in person.
+Which Type of Bank Can I Use?
+Retail banks:
+This is the most common type of bank at which people have accounts.
+Retail banks are for-profit companies that offer checking and savings accounts, loans, credit
+cards, and insurance.
+Retail banks can have physical, in-person buildings that you can visit, or they can be online only.
+Most offer both options.
+Banks’ online technology tends to be advanced, and they often have more locations and ATMs
+nationwide than credit unions do.
+Credit unions:
+Credit unions provide savings and checking accounts, issue loans, and offer other financial
+products, just like banks do.
+However, they are not-for-profit organizations owned by their members.
+
+Credit unions tend to have lower fees and better interest rates on savings accounts and loans.
+Credit unions are sometimes known for providing more personalized customer service, though
+they usually have far fewer branches and ATMs.
+FAST FACT
+Assets held in a credit union are insured by the National Credit Union Administration (NCUA),
+which is equivalent to the FDIC for banks.
+What Types of Bank Accounts Can I Open?
+There are three main types of bank accounts that the average person may want to open:
+1. Savings account:
+A savings account is an interest-bearing deposit account held at a bank or other financial
+institution.
+Savings accounts typically pay a low interest rate, but their safety and reliability make them a
+sensible option for saving available cash for short-term needs.
+They may have some legal limitations on how often you can withdraw money.
+However, they’re generally very flexible, so they’re ideal for building an emergency fund, saving
+for a short-term goal like buying a car or going on vacation, or simply storing extra cash that you
+don’t need in your checking account.
+2. Checking account:
+A checking account is also a deposit account at a bank or other financial institution that allows
+you to make deposits and withdrawals.
+Checking accounts are very liquid, meaning that they allow numerous withdrawals per month
+(as opposed to less liquid savings or investment accounts) though they earn little to no interest.
+Money can be deposited at banks and ATMs, through direct deposit, or through another type of
+electronic transfer.
+Account holders can withdraw funds via banks and ATMs, by writing checks, or using debit
+cards linked to their accounts.
+You may be able to find a checking account with no fees.
+Others have monthly and other charges (such as for overdrafts or using an out-of-network ATM)
+based on, for example, how much you keep in the account or whether there’s a direct deposit
+paycheck or automatic withdrawal mortgage payment connected to the account.
+Lifeline and second-chance accounts, available at some banks, can help those who have
+difficulty qualifying for a traditional checking account.
+3. High-yield savings account:
+A high-yield savings account usually pays a much higher rate of interest than a standard
+savings account.
+The tradeoff for earning more interest on your money is that high-yield accounts tend to require
+bigger initial deposits, larger minimum balances, and higher fees.
+FAST FACT
+You might be able to open a high-yield savings account at your current bank, but online banks
+
+tend to have the highest interest rates.
+What’s an Emergency Fund?
+An emergency fund is not a specific type of bank account, but can be any source of cash that
+you’ve saved to help you handle financial hardships like job losses, medical bills, or car repairs.
+Here's how they work:
+Most people use a separate savings account for their emergency savings.
+The account should eventually total enough to cover at least three to six months’ worth of
+expenses.
+Emergency fund money should be off-limits for paying regular expenses.
+Introduction to Credit Cards
+You know them as the plastic cards that (almost) everyone carries in their wallets.
+Credit cards are accounts that let you borrow money from the credit card issuer and pay it back
+over time.
+For every month that you don’t pay back the money in full, you’ll be charged interest on your
+remaining balance.
+Note that some credit cards, called charge cards, require you to pay your balance in full each
+month.
+However, these are less common.
+What’s the Difference Between Credit and Debit Cards?
+Here is the difference:
+Debit cards take money directly out of your checking account.
+You can’t borrow money with debit cards, which means that you can’t spend more cash than
+you have in the bank.
+And debit cards don’t help you to build a credit history and credit rating.
+Credit cards allow you to borrow money and do not pull cash from your bank account.
+This can be helpful for large, unexpected purchases.
+But carrying a balance every month—not paying back in full the money that you
+borrowed—means that you’ll owe interest to the credit card issuer.
+In fact, as of Q1 2026, Americans owed $1.25 trillion in credit card debt.
+So be very careful about spending more money than you have, because debt can build up
+quickly and become difficult to pay off.
+On the other hand, using a credit card judiciously and paying your credit card bills on time helps
+you not only establish a credit history and a good credit rating but also have an important
+balance on the card readily available when important expenses in life show up and you do not
+have cash on hand at that instant to pay for them.
+Hence, these plastics have introduced so much convenience in the lives of people in countries
+where credit cards are mainstream.
+You can see clearly the difference in countries that have largely not adopted this type of
+payment.
+
+The only requirement with credit cards is the discipline to pay back on time or as soon as
+possible.
+As for credit building through credit cards, it’s important to build a good credit rating not only to
+qualify for the best credit cards but also because you will get more favorable interest rates on
+car loans, personal loans, and mortgages.
+What Is APR?
+APR stands for annual percentage rate.
+This is the amount of interest that you’ll owe the credit card issuer on any unpaid balance.
+You’ll want to pay close attention to this number when you apply for a credit card.
+A higher number can cost you hundreds or even thousands of dollars if you carry a large
+balance over time.
+The median APR as of August 2025 is nearly 24%, but your rate may be higher if you have bad
+credit.
+Interest rates also tend to vary by the type of credit card.
+Which Credit Card Should I Choose?
+Credit scores have a big impact on your odds of getting approved for a credit card.
+Understanding what range your score falls into can help you narrow the options as you decide
+on the cards for which you may apply.
+Beyond your credit score, you’ll also need to decide which perks best suit your lifestyle and
+spending habits.
+If you’ve never had a credit card before, or if you have bad credit, you’ll likely need to apply for
+either a secured credit card or a subprime credit card.
+By using one of these and paying back on time, you can raise your credit score and earn the
+right to credit at better rates.
+If you have a fair to good credit score, you can choose from a variety of credit card types, such
+as:
+Travel rewards cards:
+These credit cards offer points redeemable for travel—including flights, hotels, and rental
+cars—with each dollar you spend.
+Cash-back cards:
+If you don’t travel often—or don’t want to deal with converting points into real-life perks—a
+cash-back card might be the best fit for you.
+Every month, you’ll receive a small portion of your spending back, in cash or as a credit to your
+statement.
+Balance transfer cards:
+If you have balances on other cards with high interest rates, transferring your balance to a
+lower-rate credit card could save you money, help you pay off balances, and help improve your
+credit score.
+Low- or No-APR cards:
+
+If you routinely carry a balance from month to month, switching to a credit card with a low or no
+APR could save you hundreds of dollars per year in interest payments.
+Be aware of your protections under the Equal Credit Opportunity Act (ECOA).
+Research credit opportunities and available interest rates, and be sure that you are offered the
+best rates for your particular credit history and financial situation.
+How to Create a Budget
+Creating a budget is one of the simplest and most effective ways to control your spending,
+saving, and investing.
+You can’t begin to improve your financial health if you don’t know where your money is going, so
+start tracking your expenses against your income.
+Then set clear goals.
+FAST FACT
+One budget template that helps individuals reach their goals, manage their money, and save for
+emergencies and retirement is the 50/20/30 budget rule: spending 50% on needs, 20% on
+savings, and 30% on wants.
+How Do I Create a Budget?
+Budgeting starts with tracking how much money you receive and spend every month.
+You can do this in an Excel sheet, on paper, or with a budgeting app.
+It’s up to you.
+However you decide to track, clearly lay out the following:
+Income:
+List all sources of money that you receive in a month, with the dollar amount.
+This can include paychecks, investment income, alimony, settlements, and money that you
+make from side jobs or other projects, such as selling crafts.
+Expenses:
+List every purchase that you make in a month, split into two categories: fixed expenses and
+discretionary spending.
+Review your bank statements, credit card statements, and brokerage account statements to be
+sure to capture them all.
+Fixed expenses are the purchases that you must make every month.
+Their amounts don’t change (or change very little) and are considered essential.
+They include rent/mortgage payments, loan payments, and utilities.
+Discretionary spending is nonessential spending or varying purchases for things like restaurant
+meals, shopping, clothes, and travel.
+Consider your wants rather than needs.
+Savings:
+Record the amount of money that you’re able to save each month, whether it’s in cash, cash
+deposited into a bank account, or money that you add to an investment account or retirement
+account like an IRA or 401(k) (if your employer offers one).
+
+Subtract your total expenses from your total income to get the amount of money you have left at
+the end of the month.
+Now that you have a clear picture of money coming in, money going out, and money saved, you
+can identify which expenses you can cut back on, if necessary.
+If you don’t already have one, put your extra money into an emergency fund until you’ve saved
+at least three to six months’ worth of expenses (in case of a job loss or other emergency).
+Don’t use this money for discretionary spending.
+The key is to keep it safe and grow it for times when your income decreases or stops.
+How to Start Investing
+Once you have enough savings to start investing, you’ll want to learn the basics of where and
+how to invest your money.
+Decide what to invest in and how much to invest by understanding the risks (and potential
+rewards) of different types of investments.
+What Is the Stock Market?
+The stock market refers to the collection of markets and exchanges where stock buying and
+selling take place.
+The terms “stock market” and “stock exchange” can be used interchangeably.
+And even though it’s called a stock market, other financial securities, such as exchange-traded
+funds (ETFs), corporate bonds, and derivatives based on stocks, commodities, currencies, and
+bonds, are also traded there.
+There are multiple stock trading venues.
+The leading stock exchanges in the U.S. include the New York Stock Exchange (NYSE),
+Nasdaq, and the Cboe Options Exchange.
+How Do I Invest?
+To buy stocks, you need to use a broker.
+This is a professional person or digital platform whose job is to handle the transaction for you.
+For new investors, there are three basic categories of brokers:
+A full-service broker who manages your investment transactions and provides advice for a fee.
+An online/discount broker that executes your transactions and provides advice depending on
+how much you have invested.
+Examples include Fidelity and Charles Schwab.
+A robo-advisor that executes your trades and can pick investments for you with little human
+assistance.
+Examples include Betterment, Wealthfront, and Schwab Intelligent Portfolios.
+What Should I Invest in?
+There’s no right answer for everyone.
+Which securities you buy, and how much you buy, will depend on the amount of money that you
+have available for investing and how much risk you’re willing to take to try to earn a higher
+return.
+
+Here are the most common securities to invest in, listed in descending order of risk:
+Stocks:
+A stock (also known as “shares” or “equity”) is a type of investment that signifies partial
+ownership in the issuing company.
+This entitles the stockholder to a proportion of the corporation’s assets and earnings.
+Owning stock gives you the right to vote in shareholder meetings, receive dividends (which
+come from the company’s profits) if and when they are distributed, and sell your shares to
+somebody else.
+The price of a stock fluctuates throughout the day and can depend on many factors, including
+the company’s performance, the domestic economy, the global economy, the day’s news, and
+more.
+Stocks can rise in value, fall in value, or even become worthless, making them more volatile and
+potentially riskier than many other types of investments.
+ETFs:
+An exchange-traded fund, or ETF, consists of a collection of securities, such as stocks.
+It often tracks an underlying index.
+ETFs can invest in any number of industry sectors or use various strategies.
+Think of an ETF as a pie containing many different securities.
+When you buy shares of an ETF, you’re buying a slice of the pie, which contains slivers of the
+securities inside.
+This lets you purchase a variety of stocks at once, with the ease and convenience of only one
+purchase—the ETF.
+In many ways, ETFs are similar to mutual funds.
+For instance, they both offer instant diversification and are professionally managed.
+However, ETFs are listed on exchanges, and ETF shares trade throughout the day just like
+ordinary stocks.
+Investing in ETFs is considered less risky than investing in individual stocks because there are
+many securities inside the ETF.
+If some of those securities fall in value, others may stay steady or rise in value.
+Mutual funds:
+A mutual fund is a type of investment consisting of a portfolio of stocks, bonds, or other
+securities.
+Mutual funds give small or individual investors access to diversified, professionally managed
+portfolios at a low price.
+There are many categories of mutual funds, representing the kinds of securities in which they
+invest, their investment objectives, and the type of returns that they seek.
+Most employer-sponsored retirement plans invest in mutual funds.
+Investing in shares of a mutual fund is different from investing in individual shares of stock
+because a mutual fund owns many different stocks (or other securities).
+
+Unlike stocks or ETFs that trade at varying prices throughout the day, mutual fund purchases
+and redemptions take place only at the end of each trading day and at a fund's net asset value
+(NAV).
+Similar to ETFs, mutual funds are considered less risky than stocks because of their
+diversification.
+IMPORTANT
+Mutual funds charge annual fees, called expense ratios, and in some cases, commissions.
+Bonds:
+Bonds are issued by companies, municipalities, states, and sovereign governments to finance
+projects and operations.
+When an investor buys a bond, they’re effectively lending their money to the bond issuer, with
+the promise of repayment plus interest.
+A bond’s coupon rate is the interest rate that the investor will earn.
+A bond is referred to as a fixed-income instrument because bonds traditionally have paid a fixed
+interest rate to investors, although some bonds pay variable interest rates.
+Bond prices inversely correlate with interest rates.
+When rates go up, bond prices fall, and vice versa.
+Bonds have maturity dates, which are the point in time when the principal amount must be paid
+back to the investor in full, or the issuer will risk default.
+Bonds are rated by how likely the issuer is to pay you back.
+Higher-rated bonds, known as investment-grade bonds, are viewed as safer and more stable.
+Such offerings are tied to publicly traded corporations and government entities that boast
+positive outlooks.
+Investment-grade bonds receive “AAA” to “BBB-” ratings from Standard and Poor’s and “Aaa” to
+“Baa3” ratings from Moody’s.
+Bonds with higher ratings will usually pay lower rates of interest than those with lower ratings.
+Are Banks Safe?
+Most bank accounts in the United States are insured by the Federal Deposit Insurance
+Corporation (FDIC) up to certain limits, currently defined as “up to at least $250,000 per
+depositor, per FDIC-insured bank, per ownership category.”
+If you have a great deal of money to put in the bank, you can make sure that it’s all covered by
+opening multiple accounts.
+Is It Safe to Invest in the Stock Market?
+Stocks are inherently risky—some more than others—and you can lose money if their share
+prices fall.
+Brokerage accounts are insured by the Securities Investor Protection Corporation for up to
+$500,000 in securities and cash.
+However, that applies only if the brokerage firm fails and is unable to repay its customers.
+It does not cover normal investor losses.
+
+What Is the Safest Investment?
+U.S. Treasury securities, including bonds, bills, and notes, are backed by the U.S. government
+and generally are considered the safest investments in the world.
+However, these kinds of investments tend to pay low rates of interest, so investors do face a risk
+that inflation may erode the purchasing power of their money over time.
+The Bottom Line
+Navigating the world of personal finance can be complex, given the number of options available,
+the depth of the financial world, the knowledge that needs to be learned, and the effort in
+determining what works best for you.
+The topics in this article are just the beginning of a financial education, but they cover the most
+important and frequently used products, tools, and tips for getting started.
+
+
+
+
+Which brokerage should I make an account with?:
+Vanguard Brokerage Accounts Overview
+A brokerage account is a flexible, nonretirement investing account designed to help you build
+wealth for any goal.
+You can hold mutual funds, ETFs, individual stocks, bonds, and cash in a single account.
+There is $0 required to open an account with Vanguard, making it accessible to investors at all
+levels.
+Unlike retirement accounts, taxable brokerage accounts have no annual contribution limits.
+You can withdraw your money at any time without incurring early withdrawal tax penalties.
+Individual brokerage accounts have one owner, while joint brokerage accounts have two or
+more co-owners.
+Investors can choose between self-directed trading or professional advisory services depending
+on their preferences.
+Best Online Stock Brokers for Beginners
+Selecting the right online brokerage is a crucial first step for new investors.
+Top beginner brokerages feature $0 commission trades on stocks and exchange-traded funds.
+Zero account minimums allow new investors to start building a portfolio with small amounts of
+money.
+Fractional shares enable users to purchase portions of high-priced individual stocks.
+Paper trading tools and stock market simulators allow beginners to practice investing without
+financial risk.
+Comprehensive educational articles, tutorials, and customer service help users build long-term
+financial literacy.
+User-friendly mobile trading apps make portfolio tracking intuitive and seamless on mobile
+devices.
+Brokerage Examples and Who They Work For
+Vanguard is ideal for buy-and-hold index fund investors who prioritize low expense ratios and
+long-term passive wealth accumulation.
+It works for these investors because Vanguard specializes in low-cost index funds and ETFs
+with no account minimums.
+Fidelity is well-suited for beginners and all-around investors seeking dollar-based fractional
+share trading and fee-free index funds.
+It works for these investors because Fidelity provides excellent customer service,
+zero-expense-ratio index funds, and zero account fees.
+Charles Schwab is ideal for investors who value robust research tools, extensive educational
+resources, and top-tier customer support.
+It works for these investors because Schwab offers $0 trade commissions, 24/7 client support,
+and comprehensive learning materials.
+Robinhood and Public are tailored for young or mobile-first investors who prefer an intuitive app
+interface and fractional share options.
+
+They work for these investors because they simplify stock purchasing and provide clean,
+modern user interfaces without account minimums.
+What are common payroll deductions (like taxes, FICA, or insurance)? 
+Key Takeaways
+Federal and state income taxes are taken from each paycheck based on your W-4 choices, filing status, and taxable income after deductions.
+Social Security taxes of 6.2% are withheld up to a wage cap and fund benefits you can claim at 62, with lower payments if taken early.
+Medicare taxes of 1.45% are withheld from your wages, with employers matching that amount and higher earners paying an extra 0.9%.
+You can choose retirement contributions through workplace plans like a 401(k), using pretax or Roth options, while IRA contributions are not withheld.
+Other deductions like insurance premiums or wage garnishments reduce take home pay and help fund benefits or meet required obligations.
+You get your paycheck, but there is a big difference between your gross and net earnings.
+Taxes and different types of payroll deductions account for this gap. 
+If you are unsure what these deductions are and how they affect your take-home pay, here's some information to keep in mind.
+Federal & State Income Taxes
+Your employer withholds taxes from every paycheck. 
+Federal and state taxes are used to fund public services like infrastructure and education.
+These taxes are taken out of your gross income and are based on how you fill out your W-4 form.
+Your tax filing status, tax bracket, and taxable income all affect how much federal tax you pay.
+Taxable income is the amount of your income that is subject to tax after you take allowable deductions and exemptions. 
+Most people pay federal income tax unless their income is low enough that deductions and credits reduce their tax bill to zero. 
+If you live in a state with no state income tax, you will not see state payroll withholding.
+Social Security
+Your employer withholds 6.2% of your gross pay up to $184,500 for Social Security.1 
+You'll also see a line item on your paycheck for Social Security or Federal Insurance Contributions Act (FICA) taxes. 
+How Timing Affects Your Benefit
+You pay into Social Security throughout your working years.
+Beginning at age 62, you can start collecting benefits based on what you've contributed to Social Security taxes.
+If you collect benefits before your full retirement age, defined by the year in which you were born, your monthly benefit will be reduced.
+Medicare Tax
+This payroll deduction is part of FICA taxes on your paycheck. It helps fund the federal health care program for older adults. Federal law requires your employer to:
+Withhold 1.45% of your income for Medicare taxes, according to the IRS.2
+Contribute an additional 1.45% to the federal government.
+Total = 2.9%.
+If you earn more than $200,000 in a calendar year, you will pay an additional 0.9% Medicare tax. 
+Like Social Security, you can begin receiving Medicare benefits at a certain age. 
+You become eligible for Medicare when you turn 65.
+Retirement Deductions
+The items above are mandatory deductions, but you may also have voluntary deductions.
+Retirement contributions fall into this category.
+If you participate in a 401(k) or 403(b) through your employer, a portion of your paycheck can be withheld and deposited into your account based on your selected contribution rate or an automatic enrollment feature.
+How Contributions Are Taxed
+Traditional 401(k) or 403(b): Contributions are made with pretax income. Taxes are paid when you withdraw funds in retirement.
+Roth 401(k) or 403(b): Contributions are made after taxes. Withdrawals in retirement are generally tax-free if requirements are met.
+Key Points to Know
+In either case, you likely determine the percentage of your income to contribute.
+Your employer is not responsible for withholding income for any individual retirement accounts (IRAs) you might hold. For 2026, you can contribute up to $24,500 to a 401(k) or 403(b) plan.3
+Insurance Policy Deductions
+If you have employer-sponsored health, dental, or vision insurance, you will pay your monthly premiums through a payroll deduction. Your employer usually deducts the required amount and sends the payment directly to your insurance company.
+If you have voluntary benefits, such as life insurance, a flexible spending account, or a pretax health savings account for out-of-pocket health care costs, you will also contribute to these plans through payroll deductions.
+Other Payroll Deductions & Withholdings
+Depending on your situation, you may have additional deductions and payroll withholdings.
+These may include wage garnishments for child support, union dues, or payments for back taxes you owe.
+Payroll Deductions & Your Take-Home Pay
+Payroll deductions are more than just line items on your paycheck. 
+Many help fund public services and federal programs, such as Social Security and Medicare.
+The next time you see items like FICA or federal and state income taxes on your pay stub, you may better understand where your money goes and why.
+
+
+
+What is inflation, and how does it affect purchasing power?
+What Is Inflation?
+It may be one of the most familiar words in economics.
+Inflation has plunged countries into long periods of instability.
+Central bankers often aspire to be known as “inflation hawks.”
+Politicians have won elections with promises to combat inflation, only to lose power after failing
+to do so.
+Inflation was even declared Public Enemy No. 1 in the United States—by President Gerald Ford
+in 1974.
+What, then, is inflation, and why is it so important?
+Inflation is the rate of increase in prices over a given period of time.
+Inflation is typically a broad measure, such as the overall increase in prices or the increase in
+the cost of living in a country.
+But it can also be more narrowly calculated—for certain goods, such as food, or for services,
+such as a haircut, for example.
+Whatever the context, inflation represents how much more expensive the relevant set of goods
+and/or services has become over a certain period, most commonly a year.
+Measuring Inflation
+Consumers’ cost of living depends on the prices of many goods and services and the share of
+each in the household budget.
+To measure the average consumer’s cost of living, government agencies conduct household
+surveys to identify a basket of commonly purchased items and track over time the cost of
+purchasing this basket.
+(Housing expenses, including rent and mortgages, constitute the largest component of the
+consumer basket in the United States.)
+The cost of this basket at a given time expressed relative to a base year is the consumer price
+index (CPI), and the percentage change in the CPI over a certain period is consumer price
+inflation, the most widely used measure of inflation.
+(For example, if the base year CPI is 100 and the current CPI is 110, inflation is 10 percent over
+the period.)
+Core consumer inflation focuses on the underlying and persistent trends in inflation by excluding
+prices set by the government and the more volatile prices of products, such as food and energy,
+most affected by seasonal factors or temporary supply conditions.
+Core inflation is also watched closely by policymakers.
+Calculation of an overall inflation rate—for a country, say, and not just for consumers—requires
+an index with broader coverage, such as the GDP deflator.
+The CPI basket is mostly kept constant over time for consistency, but is tweaked occasionally to
+reflect changing consumption patterns—for example, to include new hi-tech goods and to
+replace items no longer widely purchased.
+Because it shows how, on average, prices change over time for everything produced in an
+
+economy, the contents of the GDP deflator vary each year and are more current than the mostly
+fixed CPI basket.
+On the other hand, the deflator includes nonconsumer items (such as military spending) and is
+therefore not a good measure of the cost of living.
+The Good and the Bad
+To the extent that households’ nominal income, which they receive in current money, does not
+increase as much as prices, they are worse off, because they can afford to purchase less.
+In other words, their purchasing power or real—inflation-adjusted—income falls.
+Real income is a proxy for the standard of living.
+When real incomes are rising, so is the standard of living, and vice versa.
+In reality, prices change at different paces.
+Some, such as the prices of traded commodities, change every day; others, such as wages
+established by contracts, take longer to adjust (or are “sticky,” in economic parlance).
+In an inflationary environment, unevenly rising prices inevitably reduce the purchasing power of
+some consumers, and this erosion of real income is the single biggest cost of inflation.
+Inflation can also distort purchasing power over time for recipients and payers of fixed interest
+rates.
+Take pensioners who receive a fixed 5 percent yearly increase to their pension.
+If inflation is higher than 5 percent, a pensioner’s purchasing power falls.
+On the other hand, a borrower who pays a fixed-rate mortgage of 5 percent would benefit from 5
+percent inflation, because the real interest rate (the nominal rate minus the inflation rate) would
+be zero; servicing this debt would be even easier if inflation were higher, as long as the
+borrower’s income keeps up with inflation.
+The lender’s real income, of course, suffers.
+To the extent that inflation is not factored into nominal interest rates, some gain and some lose
+purchasing power.
+Indeed, many countries have grappled with high inflation—and in some cases hyperinflation,
+1,000 percent or more a year.
+In 2008, Zimbabwe experienced one of the worst cases of hyperinflation ever, with estimated
+annual inflation at one point of 500 billion percent.
+Such high levels of inflation have been disastrous, and countries have had to take difficult and
+painful policy measures to bring inflation back to reasonable levels, sometimes by giving up
+their national currency, as Zimbabwe has.
+Although high inflation hurts an economy, deflation, or falling prices, is not desirable either.
+When prices are falling, consumers delay making purchases if they can, anticipating lower
+prices in the future.
+For the economy this means less economic activity, less income generated by producers, and
+lower economic growth.
+Japan is one country with a long period of nearly no economic growth, largely because of
+
+deflation.
+Preventing deflation during the global financial crisis that began in 2007 was one of the reasons
+the US Federal Reserve and other central banks around the world kept interest rates low for a
+prolonged period and have instituted other monetary policies to ensure financial systems have
+plenty of liquidity.
+Most economists now believe that low, stable, and—most important—predictable inflation is
+good for an economy.
+If inflation is low and predictable, it is easier to capture it in price-adjustment contracts and
+interest rates, reducing its distortionary impact.
+Moreover, knowing that prices will be slightly higher in the future gives consumers an incentive
+to make purchases sooner, which boosts economic activity.
+Many central bankers have made their primary policy objective maintaining low and stable
+inflation, a policy called inflation targeting.
+What Creates Inflation?
+Long-lasting episodes of high inflation are often the result of lax monetary policy.
+If the money supply grows too big relative to the size of an economy, the unit value of the
+currency diminishes; in other words, its purchasing power falls and prices rise.
+This relationship between the money supply and the size of the economy is called the quantity
+theory of money and is one of the oldest hypotheses in economics.
+Pressures on the supply or demand side of the economy can also be inflationary.
+Supply shocks that disrupt production, such as natural disasters, or raise production costs, such
+as high oil prices, can reduce overall supply and lead to “cost-push” inflation, in which the
+impetus for price increases comes from a disruption to supply.
+The food and fuel inflation of 2008 was such a case for the global economy—sharply rising food
+and fuel prices were transmitted from country to country by trade.
+Conversely, demand shocks, such as a stock market rally, or expansionary policies, such as
+when a central bank lowers interest rates or a government raises spending, can temporarily
+boost overall demand and economic growth.
+If, however, this increase in demand exceeds an economy’s production capacity, the resulting
+strain on resources is reflected in “demand-pull” inflation.
+Policymakers must find the right balance between boosting demand and growth when needed
+without overstimulating the economy and causing inflation.
+Expectations also play a key role in determining inflation.
+If people or firms anticipate higher prices, they build these expectations into wage negotiations
+and contractual price adjustments (such as automatic rent increases).
+This behavior partly determines the next period’s inflation; once the contracts are exercised and
+wages or prices rise as agreed, expectations become self-fulfilling.
+And to the extent that people base their expectations on the recent past, inflation would follow
+similar patterns over time, resulting in inflation inertia.
+
+How Policymakers Deal with Inflation
+The right set of disinflationary policies, those aimed at reducing inflation, depends on the causes
+of inflation.
+If the economy has overheated, central banks—if they are committed to ensuring price
+stability—can implement contractionary policies that rein in aggregate demand, usually by
+raising interest rates.
+Some central bankers have chosen, with varying degrees of success, to impose monetary
+discipline by fixing the exchange rate—tying the value of its currency to that of another currency,
+and thereby its monetary policy to that of another country.
+However, when inflation is driven by global rather than domestic developments, such policies
+may not help.
+In 2008, when inflation rose across the globe on the back of high food and fuel prices, many
+countries allowed the high global prices to pass through to the domestic economy.
+In some cases the government may directly set prices (as some did in 2008 to prevent high food
+and fuel prices from passing through).
+Such administrative price-setting measures usually result in the government’s accrual of large
+subsidy bills to compensate producers for lost income.
+Central bankers are increasingly relying on their ability to influence inflation expectations as an
+inflation-reduction tool.
+Policymakers announce their intention to keep economic activity low temporarily to bring down
+inflation, hoping to influence expectations and contracts’ built-in inflation component.
+The more credibility central banks have, the greater the influence of their pronouncements on
+inflation expectations.
+
+
+
+"What's the difference between needs and wants, financially?"
+KEY TAKEAWAYS
+Basic needs include housing, food, utilities, and transportation.
+Wants may include dining out, shopping, and entertainment.
+Budgeting systems, like the 50/30/20 rule, help categorize spending.
+Needs versus wants vary for each individual.
+Wants evolve with interests, income, and life stages.
+Understanding the Difference Between Needs and Wants
+Every purchase you make falls into one of two categories: a need or a want.
+Understanding the difference between needs and wants is important for creating a budget and
+sticking to it, but drawing the line between the two isn’t always easy.
+Needs are the essentials required for your survival, including food, clothing, shelter, and basic
+health care.
+They could also include resources required for your job, such as transportation or paying off
+debts.
+Wants, on the other hand, are nice to have, but aren’t necessary to live.
+Wants often increase your quality of life, but are not needed for basic survival.
+While needs should always take priority in your budget, distinguishing between the two might
+require some thought and reflection on your finances.
+Why Knowing the Distinction Matters
+Understanding the distinction between needs and wants will directly impact your financial health
+and ability to meet financial goals.
+Categorizing your expenses will help you:
+Make sure all bills and debts are paid before spending on non-essential items.
+Find areas to cut back when saving for big goals, like paying off student loans or saving for a
+home.
+Reduce financial stress by keeping you in control of your spending.
+Spend money intentionally in a way that aligns with your priorities.
+For example, if your goal is to save 3-6 months of expenses in an emergency fund by the end of
+the year, knowing which expenses are essential will help you decide how much you need to
+save, and which categories you can reduce spending in to reach your goal faster.
+Defining Needs in Financial Terms
+Needs are made up of all the things that are required for your survival, no matter your income or
+financial situation.
+Non-negotiable expenses often include:
+Housing (rent or mortgage, plus utilities)
+Groceries
+Insurance (health care, car, rental, etc.)
+Basic clothing
+Transportation for work
+
+Minimum debt payments
+Your needs should account for around 50% of your overall income and budget.
+Review your spending from the last few months and highlight which expenses are considered
+true needs.
+If you find that you are spending more than 60% of your income on needs, there may be some
+areas where needs have become inflated wants.
+For example, you may need a car to get to work, but do you have an expensive car loan that is
+eating up your monthly budget?
+Knowing how much of your monthly income is going towards needs is a great first step towards
+building a budget and deciding how much you can spend on wants.
+Understanding Wants in a Financial Context
+Wants are the purchases that often improve your quality of life, but are not considered essential
+to survive.
+This could include:
+Restaurant meals or takeout
+Subscriptions
+Vacation and travel
+Non-essential or luxury clothing
+Hobby-related expenses
+Premium versions of basic items
+You will notice that some needs fall into the want category.
+For example, groceries are considered a need, but shopping at specialty stores or buying
+premium foods is considered a want.
+You may need a basic phone plan or computer to do your job, but purchasing the latest model
+every year is a want.
+IMPORTANT
+Wants are going to look different for everyone, and for some people may even be a need.
+For example, you could be required to have a gym membership to maintain your health or
+complete a job requirement, while for other people, a gym membership is a want.
+Core Differences Between Needs and Wants
+Essential vs. Non-Essential
+Not meeting your essential needs could put your health, safety, and ability to earn an income at
+risk.
+Any purchases you make that have little to no impact on these factors are going to be
+non-essential.
+Universality vs. Individuality
+Needs are largely universal, such as food, and everyone across the world shares the same set
+of basic needs.
+Wants, however, can be a reflection of your individuality.
+
+They reflect your personal preferences, such as what you like to eat, how you like to dress, and
+what hobbies you enjoy.
+Stability vs. Changeability
+Needs will remain stable throughout your life, though the amounts you allocate towards them
+may vary.
+For example, when you are younger, you may spend less money on health care, but more on
+housing.
+These categories will likely reverse once you reach retirement age.
+FAST FACT
+Wants are going to evolve with your changing interests, income, and stages of life.
+Identifying Your Purchases: Need or Want?
+Outside of your budget, there are practical strategies you can use to help you determine if
+something is a need or a want in real time.
+Before your next shopping trip, list what you need to buy ahead of time.
+Any item you pick up at the store that is not on that list is considered a want.
+If you often impulse shop, set a 24-hour rule for non-urgent purchases.
+After a day has passed, revisit this item and see if you still want to buy it.
+Ask yourself these questions before you head to the checkout counter:
+Is this essential for my basic survival or to complete my job?
+Do I already own something that serves this purpose?
+What problem does this solve?
+Would I still buy this if it cost 20% more?
+What are the short-term and long-term benefits of this purchase?
+Keep a list of these questions in your wallet or on your phone for easy reference next time you
+shop.
+Budgeting Essentials for Needs and Wants
+Try one of these practical budgeting methods to help you distinguish between your wants and
+needs.
+The 50/30/20 Budget Rule
+One common budgeting approach is the 50/30/20 budget rule, where 50% of your income goes
+to your needs, 30% goes to your wants, and 20% goes towards savings, investing, or debt
+repayment.
+Cash Envelope System
+If you have struggled with overspending on your credit card, create physical or digital envelopes
+for different spending categories.
+First, fill your needs envelopes with money.
+Then, allocate the remaining funds to your personalized want categories.
+Once an envelope is empty, stop spending money in that category.
+You can also open separate bank accounts—one for your bills and other needs, and another for
+your wants.
+Set up direct deposit to automatically distribute your money and pay your bills when you receive
+a paycheck, and the rest will go into your spending account for wants.
+The Bottom Line
+At its core, distinguishing between needs and wants is about being more intentional with your
+money.
+Start by tracking one month of your shopping and expenses, labeling each item as a need or a
+want.
+This will help you paint a picture of your spending habits and identify areas where you can cut
+spending.
+By clearly separating needs from wants and budgeting accordingly, you’ll have more control
+over your spending, reduce financial stress, and make progress toward your long-term financial
+goals.
+
+
+
+What is capital gain?
+What Are Capital Gains?
+Realized capital gains are profits you earn when you sell an investment for more than what you
+initially paid.
+These investments can include:
+Stocks
+Bonds
+Exchange-traded funds (ETFs)
+Mutual funds
+Real estate
+Cryptocurrency
+Collectibles, such as antiques, artwork, coins, gems, metals (e.g. gold, silver, and platinum
+bullion), stamps, and even alcoholic beverages.
+Capital gains tax typically applies only to profits made from selling investments (realized gains),
+not potential profits when an asset’s value rises but you don’t sell it (unrealized gains).
+What Are Capital Losses?
+Capital losses occur when you sell an asset for less than you originally paid.
+As with capital gains, capital losses are unrealized until you execute a sale.
+If you have realized capital losses in a given tax year, you might be able to use them to offset
+realized capital gains.
+The strategy of selling securities at a loss for the purpose of offsetting capital gains is called
+tax-loss harvesting.
+To ensure your portfolios’ asset allocation remains aligned with your goals, you can replace the
+securities you sell at a loss with a similar but not substantially identical security.
+This will ensure that you do not violate the wash sale rule.
+Implementing tax-loss harvesting could potentially reduce your tax liability, either by reducing
+your net capital gain or offsetting up to $3,000 of ordinary income, if you have a net realized loss
+for the year.
+Any unused losses can be carried over to future years.
+How Do Capital Gains Work?
+Let’s say you purchase a share of stock for $50 and sell it for $75.
+You’ve realized a capital gain of $25.
+If you decide instead to hold onto the stock that’s now worth $75, that $25 gain would be
+considered unrealized and you wouldn’t owe taxes on it.
+Generally, you’ll owe federal income taxes on the $25 profit, though they are exceptions.
+Those could include making the sale from a tax-advantaged account, such as a 401(k), health
+savings account (HSA), or individual retirement account (IRA).
+Separately, it’s possible to qualify for a 0% capital gains tax rate.
+Types of Capital Gains
+There are 2 basic types of capital gains: short-term and long-term.
+
+The difference between them has to do with how long you’ve held the asset.
+Short-Term Capital Gains
+Short-term capital gains are profits realized after selling an asset you owned for 12 months or
+less.
+These are generally treated like other sources of income as far as taxes are concerned and will
+be taxed at your marginal ordinary income tax rate.
+Long-Term Capital Gains
+Long-term capital gains are profits realized after owning an asset for more than a year.
+These are generally taxed at a lower rate than short-term capital gains.
+How Are Capital Gains Taxed?
+At the federal level, capital gains are taxed depending on the asset type, your income, your
+tax-filing status, and whether they are short-term versus long-term capital gains.
+Short-Term Capital Gains Tax
+Short-term capital gains are generally taxed at your federal ordinary income tax rate.
+That can range from 10% to 37%, depending on your income and filing status.
+2026 short-term capital gains tax rates based on taxable income:
+10% Tax Rate:
+Single Filers: Up to $12,400
+Married Filing Jointly: Up to $24,800
+Married Filing Separately: Up to $12,400
+Head of Household: Up to $17,700
+12% Tax Rate:
+Single Filers: Over $12,400 to $50,400
+Married Filing Jointly: Over $24,800 to $100,800
+Married Filing Separately: Over $12,400 to $50,400
+Head of Household: Over $17,700 to $67,450
+22% Tax Rate:
+Single Filers: Over $50,400 to $105,700
+Married Filing Jointly: Over $100,800 to $211,400
+Married Filing Separately: Over $50,400 to $105,700
+Head of Household: Over $67,450 to $105,700
+24% Tax Rate:
+Single Filers: Over $105,700 to $201,775
+Married Filing Jointly: Over $211,400 to $403,550
+Married Filing Separately: Over $105,700 to $201,775
+Head of Household: Over $105,700 to $201,750
+32% Tax Rate:
+Single Filers: Over $201,775 to $256,225
+Married Filing Jointly: Over $403,550 to $512,450
+
+Married Filing Separately: Over $201,775 to $256,225
+Head of Household: Over $201,750 to $256,200
+35% Tax Rate:
+Single Filers: Over $256,225 to $640,600
+Married Filing Jointly: Over $512,450 to $768,700
+Married Filing Separately: Over $256,225 to $384,350
+Head of Household: Over $256,200 to $640,600
+37% Tax Rate:
+Single Filers: Over $640,600
+Married Filing Jointly: Over $768,700
+Married Filing Separately: Over $384,350
+Head of Household: Over $640,600
+Source: Internal Revenue Service
+Long-Term Capital Gains Tax
+Long-term capital gains tax rates are generally more favorable than short-term capital gains tax
+rates, ranging from 0% to 20% for many investments.
+2026 long-term capital gains tax rates based on taxable income:
+0% Tax Rate:
+Single Filers: Up to $49,450
+Married Filing Jointly: Up to $98,900
+Married Filing Separately: Up to $49,450
+Head of Household: Up to $66,200
+15% Tax Rate:
+Single Filers: Over $49,450 to $545,500
+Married Filing Jointly: Over $98,900 to $613,700
+Married Filing Separately: Over $49,450 to $306,850
+Head of Household: Over $66,200 to $579,600
+20% Tax Rate:
+Single Filers: Over $545,500
+Married Filing Jointly: Over $613,700
+Married Filing Separately: Over $306,850
+Head of Household: Over $579,600
+Source: Internal Revenue Service
+Single filers with a modified adjusted gross income (MAGI) above $200,000 (or $250,000 for
+married couples filing jointly) may be required to pay net investment income tax (NIIT).
+This is an additional 3.8% tax charged on top of the federal capital gains tax and also applies to
+other types of investment income.
+Capital Gains Tax for a Primary Residence
+Home sale capital gains tax is handled a little differently.
+
+If you generate capital gains from selling your primary residence, the home you live in most of
+the year, you may be able to exclude gains up to $250,000 (or $500,000 if you’re married filing
+jointly).
+To qualify, the home must have been your primary residence for at least 2 of the 5 years
+immediately preceding the sale.
+Other exceptions and rules apply.
+Capital Gains Tax for Other Assets
+Some assets’ long-term capital gains may be taxed more than 20% at the federal level.
+These assets include:
+Qualified small business stock (section 1202): Maximum rate of 28%
+Collectibles: Maximum rate of 28%
+Unrecaptured section 1250 depreciated real estate (like certain commercial and rental
+properties): Maximum rate of 25%
+Consider connecting with a tax professional to better understand your tax liability for your
+assets.
+Why Do Capital Gains Matter?
+Realizing capital gains is one of the primary ways to earn a profit from investing.
+A portfolio that doesn’t generate capital gains at one point or another isn’t generating a return
+for the investor—unless they’re earning stock dividends, bond interest, rent payments, or other
+passive income.
+Understanding your capital gains can help you fine-tune your investment and tax-reducing
+strategy and assess whether your portfolio is supporting your financial goals.
+
+
+
+What is liquidity?
+Liquidity generally refers to how easily or quickly a security can be bought or sold in a secondary market. 
+Liquid investments can be sold readily and without paying a hefty fee to get money when it is needed.
+A stock’s liquidity generally refers to how rapidly shares of a stock can be bought or sold without substantially impacting the stock price. 
+Stocks with low liquidity may be difficult to sell and may cause you to take a bigger loss if you cannot sell the shares when you want to.
+Liquidity risk is the risk that investors won’t find a market for their securities, which may prevent them from buying or selling when they want. 
+This is sometimes the case with complicated investment products and products that charge a penalty for early withdrawal or liquidation such as a certificate of deposit (CD).
+
+
+What does market volatility mean? 
+KEY TAKEAWAYS
+Volatility represents how greatly a stock or other asset’s prices swing around the mean price.
+There are several ways to measure volatility, including beta coefficients, option pricing models,
+and the standard deviation of returns.
+Volatile assets are often considered riskier than less volatile assets because the price is
+expected to be less predictable.
+Implied volatility measures how volatile the market will be, while historical volatility measures
+price changes over past time periods.
+Volatility is an important variable in the calculation of options prices.
+What Is Volatility?
+Volatility shows how much a security or market index’s returns fluctuate over time, indicating
+how widely prices move around their average.
+It's often calculated from the standard deviation or the variance between those returns.
+In most cases, the higher the volatility, the riskier the security.
+In the securities markets, volatility is often associated with big price swings, either up or down.
+For example, when the stock market rises and falls more than 1% over a sustained period, it is
+called a volatile market.
+An asset’s volatility is a key factor when pricing options contracts.
+Understanding Volatility
+Volatility describes how much a security’s price moves.
+High volatility means prices can swing sharply in a short time, while low volatility means prices
+change more gradually and stay relatively steady.
+You can measure price variation by calculating an asset’s daily returns, which show its
+percentage change from one day to the next.
+Historical volatility is based on historical prices and represents the degree of variability in the
+returns of an asset.
+This number is expressed as a percentage.
+While variance captures the dispersion of returns around an asset's mean, volatility measures
+that variance over a specific time period, including daily, weekly, monthly, or annually.
+It helps to think of volatility as the annualized standard deviation of an asset’s returns.
+How to Calculate Volatility
+Volatility is often calculated using variance and standard deviation, which is the square root of
+the variance.
+Since volatility describes changes over a specific period, take the standard deviation and
+multiply that by the square root of the number of periods in question:
+Volatility = σ√T
+where:
+σ = standard deviation of returns
+T = number of periods in the time horizon
+
+Volatility and Stocks
+For simplicity, let’s assume we have monthly stock closing prices of $1 through $10.
+For example, month one is $1, month two is $2, and so on.
+To calculate variance, follow the five steps below:
+1. Find the mean of the data set by adding each value and dividing by the total count.
+2. Calculate the difference (deviation) between each data value and the mean.
+3. Square the deviations to eliminate negative values.
+4. Add the squared deviations together.
+5. Divide the sum of the squared deviations by the number of data values to find the variance.
+Next, take the square root of the variance to get the standard deviation.
+Standard deviation is a measure of risk and shows how values are spread out around the
+average price.
+It gives traders an idea of how far the price may deviate from the average.
+Types of Volatility
+Implied Volatility (IV)
+Implied volatility (IV), also known as projected volatility, is one of the most important metrics for
+options traders.
+It allows traders to make a determination of just how volatile the market will be going forward.
+This concept also gives traders a way to calculate probability.
+Unlike historical volatility, implied volatility comes from the price of an option itself and
+represents volatility expectations for the future.
+Historical Volatility (HV)
+Also referred to as statistical volatility, historical volatility (HV) gauges the fluctuations of
+underlying securities by measuring price changes over predetermined time periods.
+It is the least prevalent metric compared with implied volatility because it isn’t forward-looking.
+When historical volatility rises, a security’s price moves more than normal.
+Volatility and Options Pricing
+Volatility is a key variable in options pricing models, estimating the extent to which the return of
+the underlying asset will fluctuate between now and the option’s expiration.
+Volatility is used to price options contracts using models like the Black-Scholes or binomial tree
+models.
+More volatile underlying assets will translate to higher options premiums because there is a
+greater probability that the options will end up in the money at expiration.
+The greater the volatility, the higher the market price of options contracts across the board.
+Other Measures of Volatility
+Beta
+One measure of the relative volatility of a particular stock to the market is its beta (β).
+A beta approximates the overall volatility of a security’s returns against the returns of a relevant
+benchmark (usually the S&P 500).
+For example, a stock with a beta value of 1.1 has moved 110% for every 100% move in the
+benchmark.
+A stock with a beta of 0.9 has moved 90% for every 100% move in the underlying index.
+The VIX
+Market volatility can also be seen through the Volatility Index (VIX), a numeric measure of equity
+market volatility.
+The Chicago Board Options Exchange created the VIX to gauge the 30-day expected volatility
+of the U.S. stock market derived from real-time prices of S&P 500 options.
+A high reading on the VIX implies a risky market.
+Tips for Managing Volatility
+Long-term investors are best advised to ignore short-term volatility periods and stay the course.
+Over the long run, stock markets tend to rise.
+Some investors use volatility as an opportunity to buy the dips when prices are relatively low.
+You can also use hedging strategies to navigate volatility, such as buying protective puts to limit
+downside losses.
+Core Questions and Definitions
+What Is Volatility, Mathematically?
+Volatility is a statistical measure of the dispersion of data around its mean over a certain period.
+It is calculated as the standard deviation multiplied by the square root of the number of time
+periods, T.
+Is Volatility the Same As Risk?
+Risk involves the chances of experiencing a loss, while volatility describes how much and how
+quickly prices move.
+Is Volatility a Good Thing?
+For long-term investors, volatility can be challenging, but for day traders and options traders,
+volatility creates trading opportunities.
+What Does High Volatility Mean?
+If volatility is high, it means that prices are moving up and down quickly and steeply.
+What Is the VIX?
+The VIX is the Cboe Volatility Index, often called the "fear index," which measures 30-day
+expected stock market volatility.
+
+
+What are CDs?
+KEY TAKEAWAYS
+The best CDs may pay higher interest rates than savings and money market accounts.
+CDs are a safer and more conservative investment than stocks and bonds, but offer less
+opportunity for growth.
+You can find CDs at banks, credit unions, and brokerages.
+Many banks and credit unions offer CDs with very low interest rates.
+The best CD rates can be three to four times higher than the national average rate.
+What Is a Certificate of Deposit (CD)?
+A certificate of deposit (CD) is a type of savings account that pays a fixed interest rate on your
+deposit for an agreed-upon period.
+The best CD rates may be higher than those of the best traditional savings accounts, but you
+lose withdrawal flexibility.
+You'll typically be charged a penalty fee if you withdraw your money early.
+CDs come in a variety of terms, generally ranging from three months to 10 years.
+CDs earn compound interest, which means it is added to the principal balance, which also earns
+interest.
+How Certificates of Deposit Work
+Opening a CD is similar to opening any standard bank deposit account.
+Consider these factors when you shop around:
+Interest rate: Most CD interest rates are fixed, so you'll know exactly how much you'll earn by
+the end of the term.
+This is a good way to lock in a high annual percentage yield (APY) if rates in general are
+expected to fall.
+It could leave you missing out if rates rise after you're locked in, however.
+There are also some variable-rate CDs that can earn a higher return if rates rise, but they
+usually provide a lower return overall than the best CDs.
+Term: This is the length of time that you agree to leave your funds deposited.
+The term ends on the maturity date, when you can withdraw your funds penalty-free.
+Principal: This is the amount that you deposit when you open the CD.
+Financial institution: The bank or credit union you choose will set policies such as early
+withdrawal penalties (EWPs) and whether your CD will default to being automatically reinvested
+at the time of maturity.
+You'll have either monthly or quarterly statement periods, with paper or electronic statements.
+Interest payments will be deposited into your CD balance, and the interest will compound,
+usually daily or monthly.
+Pros and Cons of CDs
+A CD may be a good option if you have cash that you don’t expect to need for some time.
+Investing in a CD can help you save for a specific upcoming event or expense, like a vacation, a
+new home, or a car.
+A CD may be a good idea if you want some of your savings invested conservatively.
+It can help you achieve lower risk and volatility than investing in the stock and bond markets.
+The primary downside of CDs is that your money is tied up in the investment.
+However, that can be a benefit for some savers who worry that they will be tempted to withdraw
+from their savings.
+The fixed term of a CD and the penalty for early withdrawal provide a deterrent to spending.
+Pros:
+Best rates may be higher than savings or money market accounts.
+A guaranteed, predictable rate of return is less risky than volatile stocks and bonds.
+Federally insured if opened with an FDIC- or NCUA-insured bank or credit union.
+Can help you avoid spending temptations.
+Cons:
+Penalties for withdrawing funds early.
+Typically earns less than stocks and bonds over time.
+A fixed rate could cost you if interest rates rise during the term.
+Many CDs offer very low rates.
+What Happens to My CD at Maturity?
+Your financial institution will notify you of the CD’s maturity date, along with instructions on the
+actions you can take with the maturing funds.
+They will typically offer you three options:
+Roll over the CD funds into a new CD: It would generally be into a CD that most closely matches
+the term of your maturing CD.
+Transfer the funds to an account at the same institution: Options include savings, checking, and
+money market accounts (MMAs).
+Withdraw the proceeds: Proceeds can be transferred to an external bank account or mailed to
+you as a paper check.
+In many cases, the bank will default to rolling your proceeds into a new CD if you don't make a
+decision in time.
+Which CD Term Should I Choose?
+You'll have to determine the CD term that is right for you after you decide that you won't need a certain amount of money for some time.
+Consider your plans for the money.
+The expected start of that project will help you determine your ideal CD term length if it's for a
+specific goal or project.
+You may opt for a longer term and higher interest rate if you're socking away cash with no
+particular goal in mind.
+Also, consider what's expected to happen with the Fed's rate.
+If it's anticipated that the Fed will raise rates and CD rates will likely rise as well, then short- and
+mid-term CDs will make more sense than long-term CDs or high-yield savings accounts.
+You don't want to commit to a relatively low rate for five years when new, higher rates will shortly
+become available.
+Another way to invest in CDs when interest rates are rising is to purchase a variable-rate CD or
+a bump-up CD.
+A variable-rate CD has an APY that changes based on an index rate.
+It can go up or down, so this option might make sense if you expect rates to rise.
+A bump-up CD allows you to increase the rate at one time of your choosing, and the rate cannot
+go down.
+You may want long-term CDs like a 3-year CD or even a 5-year CD if you expect rates to
+decrease in the near term.
+You can lock in today's higher rates for years.
+How Much Do I Need to Open a CD?
+Each bank and credit union establishes a minimum deposit that's required to open a CD.
+They can be as low as $100 in some cases.
+A bank will sometimes set a minimum deposit policy across all CDs.
+Some offer rate tiers with a higher annual percentage yield for those with higher minimum
+deposits.
+You may expect that larger deposits will earn higher APYs, but this is not always the case in
+practice.
+Many of the best accounts in each CD term can be opened with modest investments of just
+$500 or $1,000.
+The majority of top rates are available to anyone with at least $10,000.
+A $25,000 deposit is only occasionally required for a top rate.
+Jumbo CDs, which require a minimum deposit of $50,000 or $100,000, can pay more, but not
+always.
+Are CDs Safe?
+CDs are one of the safest ways to invest your money.
+Their rate is fixed and guaranteed, unlike accounts with variable rates that can change at any
+time.
+CD investments are usually protected by the same federal insurance that covers other deposit
+products.
+The Federal Deposit Insurance Corporation (FDIC) insures bank accounts, and the National
+Credit Union Administration (NCUA) insures credit union accounts.
+Up to $250,000 of your funds and sometimes more are protected in the rare event that the
+institutions were to fail.
+Just be sure that you're working with an FDIC-insured bank or an NCUA-insured credit union.
+CDs vs. Savings and Money Market Accounts
+CDs are like savings or money market accounts in that they allow you to put money away for a
+set period and earn interest.
+You can save toward a specific goal like a down payment on a house, a new car, or a vacation,
+or you can use a CD to just earn a guaranteed return on cash you won't need for a while.
+Savings and money market accounts allow you to make additional deposits as well as
+withdrawals.
+You make one initial deposit into a CD that stays in the account until its maturity date.
+CDs may pay higher interest rates than the best savings or money market accounts in return for
+giving up access to your funds.
+What If I Need to Withdraw My Money Early?
+Opening a CD involves agreeing to keep the funds on deposit for the duration of the term, but
+that doesn’t mean you lack options if your plans change.
+The most common way financial institutions accommodate premature termination is by
+assessing an early withdrawal penalty (EWP) on the proceeds before they are distributed.
+This is done according to the specific terms and calculations outlined in your deposit agreement
+when you first opened the certificate.
+You can determine whether the EWP is acceptable to you before agreeing to the CD.
+The EWP is typically charged as several months’ interest, with more months for longer CD
+terms.
+A bank’s policy might be to deduct three months’ interest for all CDs with terms up to 12 months,
+six months’ interest for terms up to three years, and a full year’s worth of interest for long-term
+CDs.
+Every bank and credit union sets its own EWP.
+Some particularly onerous penalties exist in the marketplace, however, where a flat percentage
+penalty is applied.
+Depending on your APY and how long the money sits in the account, this percentage may
+outweigh what you earn on the CD.
+The penalty could cut into the initial principal you deposited, leaving you with less than what you
+started with.
+These EWP types are best avoided.
+CD Ladders: Why Should I Build One?
+A CD ladder is a strategy that allows you to invest in CDs while maintaining periodic access to
+your funds and still getting high yields from multi-year CDs.
+Let's consider how to build a CD ladder ramping up to 5-year CDs.
+Take the amount of money that you want to invest in CDs and divide it by the number of CDs
+you will invest in.
+Let's say you have $25,000.
+You'd invest in five CDs to build the ladder.
+You'll put one-fifth of the funds into a top-earning 1-year CD, another fifth into a top 2-year CD,
+and so forth up to a 5-year CD.
+That would give you five CDs with varying term lengths, with a value of $5,000 each.
+Then you take the resulting funds and open a top-rate 5-year CD when the first CD matures in a
+year.
+Your initial 2-year CD will mature a year later, and you'll invest those funds into another 5-year
+CD.
+You'll continue doing this every year with whichever CD matures until you end up with a portfolio
+of five 5-year CDs, all earning high APYs, but with one of them maturing every 12 months.
+How Are CD Rates Determined?
+The Federal Reserve’s benchmark rate range plays a large role in the rates banks and credit
+unions pay on deposit accounts.
+Rates on deposit accounts and loan and credit products generally tend to go up or down as the
+Fed rate goes up or down.
+The Federal Open Market Committee (FOMC) decides whether to raise, lower, or hold its
+federal funds target rate range no more than eight times a year.
+This rate range determines the interest rates that banks charge to lend their excess reserves to
+each other overnight.
+Rates are weighted, averaged, and published each morning.
+The resulting rate becomes a benchmark that influences what financial institutions will pay
+consumers for their deposits in savings, money market, and CD accounts.
+The higher the fed funds rate, the higher the rate you can generally earn on a CD.
+It's important to check the rate outlook before committing to a CD, especially a long-term CD.
+How Are CD Earnings Taxed?
+The bank will apply the earned interest to your account at regular intervals when you hold a CD.
+This is usually done daily or monthly and will show up on your statements as earned interest.
+Just like interest paid on a savings or money market account, this interest is taxable income.
+It will be reported to you in the new year as interest earned, which you report as income on your
+tax return.
+Your CD earnings are subject to tax when the bank applies them to your account, regardless of
+when you withdraw your CD funds.
+Common Questions About Certificates of Deposit
+Can You Lose Money on a CD?
+It is nearly impossible to lose money on a CD because they are guaranteed by the issuer and
+insured by the federal government for up to $250,000.
+Should I Let My CD Roll Over?
+As a general rule, letting your CD roll over into a similar CD term at the same institution is
+unwise because the rate you'd get is often far lower than the best available rate for that term.
+Can You Add Additional Funds to My CD?
+No, you typically cannot add funds to your CD during its term.
+Is There an Early Withdrawal Penalty for CDs?
+Yes, you will usually face an early withdrawal penalty when you take your money out of a CD
+before the term ends.
+The Bottom Line
+Certificates of deposit offer a way to earn more on your money without the risk inherent in
+stocks and bonds.
+Their fixed rates let you lock in a rate without worrying about the variable interest rates of
+high-yield savings accounts.
+Interest rates may be higher than those of savings and money market accounts, but read the
+fine print carefully.
+Understand the early withdrawal penalty and be aware that you may lose out on higher interest
+returns if the federal funds rate increases.
+Know the limitations and benefits of any investment and consider consulting a financial
+professional for more guidance on your situation.
