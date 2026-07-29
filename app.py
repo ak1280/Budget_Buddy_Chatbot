@@ -130,9 +130,9 @@ custom_theme = gr.themes.Soft(
     primary_hue = "green",
     radius_size="lg"
 ).set(
-    button_primary_background_fill="#a855f7", 
-    button_primary_background_fill_hover="#9333ea", 
-    button_primary_text_color="#ffffff" 
+    button_primary_background_fill="#ADE0AE", 
+    button_primary_background_fill_hover="#042107", 
+    button_primary_text_color="#C5CC87" 
 )
 
 chatbot.launch(theme = custom_theme)
