@@ -128,15 +128,9 @@ custom_theme = gr.themes.Soft(
     radius_size="lg"
 )
 
-def display_image():
-    return "
 
-![budgetbuddy](https://cdn-uploads.huggingface.co/production/uploads/6a639ea05fe8ba83a3a00da7/uKhThMrkyY9HpdA0fcxAd.png)
-
-"
 
 with gr.Blocks(theme=custom_theme) as chatbot:
-    gr.Image(display_image())
     gr.ChatInterface(
         respond,
         title="Introducing the Budget Buddy!💵",
