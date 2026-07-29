@@ -125,10 +125,12 @@ def respond(message, history):
 def display_image():
     return "budgetbuddy.png"
     
-custom_theme = gr.themes.Soft(
-    primary_hue="green",
-    secondary_hue = "yellow",
-    radius_size="lg"
+custom_theme = (gr.themes.Soft()
+    .set(
+        body_background_fill="##ADE0AE",
+        background_fill_primary="#ADE0AE",
+        background_fill_secondary="#CBDEF2"
+    )
 )
 
 
