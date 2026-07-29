@@ -131,11 +131,11 @@ custom_theme = (
         body_background_fill="#124a34",
         body_background_fill_dark="#124a34",
 
-        background_fill_primary="#ADE0AE",
-        background_fill_primary_dark="#ADE0AE",
+        #background_fill_primary="#ADE0AE",
+        #background_fill_primary_dark="#ADE0AE",
 
-        #background_fill_secondary="#CBDEF2",
-        #background_fill_secondary_dark="#CBDEF2",
+        background_fill_secondary="#ADE0AE",
+        background_fill_secondary_dark="#ADE0AE",
     )
 )
 
