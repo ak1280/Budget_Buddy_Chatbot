@@ -142,7 +142,7 @@ with gr.Blocks(theme=custom_theme, css=custom_css) as chatbot:
     )
 
 with gr.Blocks(theme=custom_theme) as chatbot:
-    #gr.Image(display_image())
+    gr.Image(display_image())
     gr.ChatInterface(
         respond,
         title="Introducing the Budget Buddy!💵",
