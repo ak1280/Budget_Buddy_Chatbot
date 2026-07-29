@@ -12,7 +12,7 @@ import torch #pytorch: allows us to work with tensors
 # HF_TOKEN secret in the Space's Settings tab for this to work
 # (Settings -> Variables and secrets -> New secret).
 
-with open("knowledge.txt", "r", encoding="utf-8") as file:                 #open water_cycle text in "read" mode w/ encoding utf-8
+with open("financial_literacy_knowledge_base.txt", "r", encoding="utf-8") as file:                 #open water_cycle text in "read" mode w/ encoding utf-8
   # Read the entire contents of the file and store it in a variable
   knowledge_base = file.read()                                                
 
@@ -119,7 +119,7 @@ def respond(message, history):
 
     response = client.chat_completion(
         messages,
-        max_tokens=100
+        max_tokens=2000
     )
 
     return response.choices[0].message.content.strip()
