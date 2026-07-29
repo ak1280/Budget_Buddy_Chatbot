@@ -124,16 +124,17 @@ def respond(message, history):
 
     return response.choices[0].message.content.strip()
 
-chatbot = gr.ChatInterface(respond)
+##chatbot = gr.ChatInterface(respond)
 
 custom_theme = gr.themes.Soft(
     primary_hue = "green",
+    
     radius_size="lg"
 )
 
-with gr.Blocks (theme = theme) as chatbot:
+with gr.Blocks (theme = custom_theme) as chatbot:
     ##gr.Image(display_image())
-    gr.ChatInterface(respond, type = "messages",
+    chatbot = gr.ChatInterface(respond, type = "messages",
     title = "Introducing the Budget Buddy!💵",
     textbox= gr.Textbox(placeholder="Ask Me Anything!"),
     description = "This tool simplifies financial literacy and helps young adults make informed financial decisions. 💸",
