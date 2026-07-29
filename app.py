@@ -138,11 +138,11 @@ with gr.Blocks(theme=custom_theme) as chatbot:
         description="This tool simplifies financial literacy and helps young adults make informed financial decisions. 💸",
         examples=["Investing", "Budgeting", "Credit"]
     )
-    with gr.Tabs():
-        with gr.Tab("Tab 1"):
-            pass
-        with gr.Tab("Tab 2"):
-            pass
+    #with gr.Tabs():
+        #with gr.Tab("Tab 1"):
+           # pass
+        #with gr.Tab("Tab 2"):
+            #pass
 
 chatbot.launch()
 
