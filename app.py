@@ -123,10 +123,9 @@ def respond(message, history):
 
     return response.choices[0].message.content.strip()
 
-##chatbot = gr.ChatInterface(respond)
-
 custom_theme = gr.themes.Soft(
     primary_hue="green",
+    secondary_hue = "yellow",
     radius_size="lg"
 )
 
@@ -139,6 +138,10 @@ with gr.Blocks(theme=custom_theme) as chatbot:
         description="This tool simplifies financial literacy and helps young adults make informed financial decisions. 💸",
         examples=["Investing", "Budgeting", "Credit"]
     )
+    with gr.Tab("Tab 1"):
+        pass
+    with gr.Tab ("Tab 2"):
+        pass
 
 chatbot.launch()
 
