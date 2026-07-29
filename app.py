@@ -2,7 +2,6 @@ import gradio as gr
 from huggingface_hub import InferenceClient
 from sentence_transformers import SentenceTransformer  #library that's necessary to tconvert text into vector representation (embeddings) that capture meaning
 import torch #pytorch: allows us to work with tensors
-print(gr.__version__)
 # This is the same pattern from the Generative AI lesson! It uses the
 # Inference Provider API to send your messages to an AI model and get
 # a response back. Swap out the model below for a different one if
