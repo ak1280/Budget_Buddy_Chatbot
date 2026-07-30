@@ -144,16 +144,19 @@ with gr.Blocks(theme=custom_theme) as chatbot:
     gr.Image(display_image())
 
     gr.HTML("""
-    <h1 style="color:#4CAF50; font-weight:bold; text-align:center;">
-        Introducing the Budget Buddy!
-    </h1>
+    <title style="color:#042107; font-weight:bold; text-align:center;">
+        Introducing the Budget Buddy! 💵
+    </title>
+
+    <h2 style= "color:#042107; font-weight:bold">
+        This tool simplifies financial literacy and helps young adults make informed financial decisions. 💸
+    </h2>
     """)
     
     gr.ChatInterface(
         respond,
-        #title="Introducing the Budget Buddy! 💵",
+        #title="Introducing the Budget Buddy!",
         textbox=gr.Textbox(placeholder="Ask Me Anything!"),
-        description="This tool simplifies financial literacy and helps young adults make informed financial decisions. 💸",
         examples=["Investing", "Budgeting", "Credit"]
     )
     with gr.Tab("Resources"):  
