@@ -144,7 +144,7 @@ with gr.Blocks(theme=custom_theme) as chatbot:
     gr.Image(display_image())
 
     gr.HTML("""
-    <h1 style="color:#4CAF50; font-weight:bold; text-align:center;">
+    <h1 style="color:#042107; font-weight:bold; text-align:center;">
         Introducing the Budget Buddy!
     </h1>
     """)
