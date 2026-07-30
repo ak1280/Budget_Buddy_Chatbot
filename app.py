@@ -147,8 +147,10 @@ with gr.Blocks(theme=custom_theme) as chatbot:
     <title style="color:#042107; font-weight:bold; text-align:center;">
         Introducing the Budget Buddy! 💵
     </title>
+    """)
 
-    <h2 style= "color:#042107; font-weight:bold">
+    gr.HTML("""
+    <h2 style= "color:#042107; font-weight:bold; text-align:center;">
         This tool simplifies financial literacy and helps young adults make informed financial decisions. 💸
     </h2>
     """)
