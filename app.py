@@ -169,7 +169,7 @@ with gr.Blocks(theme=custom_theme) as chatbot:
         gr.HTML("""
             <iframe
                 src="https://docs.google.com/spreadsheets/d/1Ok2AgQ_YlXGnw-9XP0SvMvMqTCiNcQhvMNuv5KdcsuA/preview"
-                width="100%"
+                width="75%"
                 height="700"
                 style="border:none;">
             </iframe>
