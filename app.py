@@ -153,7 +153,7 @@ with gr.Blocks(theme=custom_theme) as chatbot:
         gr.HTML("""
         <div style="padding: 10px; font-family: sans-serif;">
             <h2 style="color: #1b5e20;">📚 Useful Financial Literacy Resources</h2>
-            <p>Check out these helpful links to learn more:</p>
+            <p style= "color: #e317e3;">Check out these helpful links to learn more:</p>
             <ul style="line-height: 1.8;">
                 <li><a href="https://www.investopedia.com/terms/f/financial-literacy.asp" target="_blank" style="color: #0d47a1; font-weight: bold;">Investopedia - Financial Literacy Guide</a></li>
                 <li><a href="https://www.schwab.com/learn/story/what-is-financial-literacy" target="_blank" style="color: #0d47a1; font-weight: bold;">Consumer Financial Protection Bureau (CFPB)</a></li>
