@@ -145,7 +145,7 @@ with gr.Blocks(theme=custom_theme) as chatbot:
 
     gr.HTML("""
     <h1 style="color:#042107; font-weight:bold; text-align:center;">
-        Introducing the Budget Buddy!
+        Introducing the Budget Buddy! 💵
     </h1>
     """)
     
@@ -166,7 +166,7 @@ with gr.Blocks(theme=custom_theme) as chatbot:
             <ul style="line-height: 1.8;">
                 <li><a href="https://www.investopedia.com/terms/f/financial-literacy.asp" target="_blank" style="color: #0d47a1; font-weight: bold;">Investopedia - Financial Literacy Guide</a></li>
                 <li><a href="https://www.schwab.com/learn/story/what-is-financial-literacy" target="_blank" style="color: #0d47a1; font-weight: bold;">Consumer Financial Protection Bureau (CFPB)</a></li>
-                <li><a href="https://blogs.uofi.uillinois.edu/view/7550/176801781" target="_blank" style="color: #0d47a1; font-weight: bold;">Khan Academy - Finance & Capital Markets</a></li>
+                <li><a href="https://www.khanacademy.org/college-careers-more/financial-literacy" target="_blank" style="color: #0d47a1; font-weight: bold;">Khan Academy - Finance & Capital Markets</a></li>
                 <li><a href="https://www.cnbc.com/personal-finance/" target="_blank" style="color: #0d47a1; font-weight: bold;">MyMoney.gov</a></li>
             </ul>
         </div>
