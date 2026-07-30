@@ -145,7 +145,7 @@ with gr.Blocks(theme=custom_theme) as chatbot:
     gr.ChatInterface(
         respond,
         #change here
-        title='<span style="color: #4CAF50; font-weight: bold;">Introducing the Budget Buddy!</span>',
+        title="Introducing the Budget Buddy! 💵"
         textbox=gr.Textbox(placeholder="Ask Me Anything!"),
         description="This tool simplifies financial literacy and helps young adults make informed financial decisions. 💸",
         examples=["Investing", "Budgeting", "Credit"]
