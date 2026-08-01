@@ -16,7 +16,7 @@ This Space was created for the KWK AI/ML capstone project. Happy building!
 # **Budget Buddy**
 
 This tool simplifies financial literacy and helps young adults make informed decisions and stay updated with financial terms. 💸
-Created to help people tackle common misunderstanding and improve their understanding of money to help them make better financial decisions.
+Created to help people tackle common misconceptions and improve their understanding of money to help them make better financial decisions.
 
 
 🤗 **Originally built as a Hugging Face Space:** https://huggingface.co/spaces/kode-with-klossy/3.3-groupB3-capstone 
